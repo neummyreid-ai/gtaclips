@@ -1,0 +1,49 @@
+name: discover
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  push:
+    branches: [main]
+    paths-ignore:
+      - "out/**"
+      - "discover/**"
+      - "jobs/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gtaclips
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install yt-dlp
+        run: pip install -U yt-dlp
+
+      - name: Find clips
+        run: python scripts/discover.py
+
+      - name: Commit results
+        run: |
+          git config user.name "gtaclips-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add discover/
+          if git diff --cached --quiet; then echo "no changes"; exit 0; fi
+          git commit -m "discover: $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep $((i * 5))
+          done
+          exit 1
