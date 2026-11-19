@@ -108,6 +108,9 @@ def list_youtube(name, channel_url):
     for v in vids[:YT_VIDEOS_PER_CHANNEL]:
         url = f"https://www.youtube.com/watch?v={v['id']}"
         info = ytdlp_json(["-J", "--skip-download", "--no-playlist", "--ignore-no-formats-error", url])
+        if info:
+            ERRORS.append({"url": url, "note": f"title={info.get('title')!r} live={info.get('live_status')} "
+                           f"dur={info.get('duration')} heatmap={len(info.get('heatmap') or [])}"})
         if not info or info.get("is_live"):
             continue
         dur = info.get("duration") or 0
