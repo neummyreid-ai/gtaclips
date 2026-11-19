@@ -27,6 +27,7 @@ YOUTUBE_CHANNELS = {
 YT_VIDEOS_PER_CHANNEL = 4
 YT_PEAKS_PER_VIDEO = 3
 YT_CLIP_LEN = 30
+ERRORS = []  # saved into latest.json so problems are visible without the Actions log
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "discover", "latest.json")
 THUMBS = os.path.join(ROOT, "discover", "thumbs")
@@ -74,6 +75,7 @@ def ytdlp_json(args, timeout=240):
         return None
     if res.returncode != 0 or not res.stdout.strip():
         print(f"yt-dlp failed {args[-1]}: {res.stderr[-300:]}", file=sys.stderr)
+        ERRORS.append({"url": args[-1], "error": res.stderr.strip()[-300:]})
         return None
     return json.loads(res.stdout)
 
@@ -198,6 +200,7 @@ def main():
         json.dump({
             "updated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
             "count": len(clips),
+            "errors": ERRORS,
             "clips": clips,
         }, f, indent=1)
     print(f"saved {len(clips)} clips")
