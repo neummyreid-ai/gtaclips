@@ -8,6 +8,7 @@ Job file: {"id", "url", "caption", "emoji", "credit", "dur"}
   emoji    one emoji, e.g. 🔥 😮 😂 (optional)
   credit   credit line, e.g. "Clip: Kai Cenat on Twitch"
   dur      seconds to keep from the start (optional, null = whole clip)
+  start    seconds into a long video where the clip starts (YouTube; optional)
   ad       true for paid campaign clips: adds an on-screen "AD" label (optional)
 
 Usage:
@@ -242,8 +243,14 @@ def make_overlay(path, job, box):
 
 # ---------- pipeline ----------
 
-def download(url, dest):
-    run(["yt-dlp", "--no-playlist", "-f", "best[ext=mp4]/best", "-o", dest, url])
+def download(url, dest, start=None, dur=None):
+    cmd = ["yt-dlp", "--no-playlist", "-f",
+           "bv*[height<=1080][ext=mp4]+ba[ext=m4a]/b[height<=1080][ext=mp4]/bv*[height<=1080]+ba/b",
+           "--merge-output-format", "mp4", "-o", dest]
+    if start is not None:  # long YouTube video: fetch only the part we need
+        end = start + (dur or 30) + 2
+        cmd += ["--download-sections", f"*{start}-{end}", "--force-keyframes-at-cuts"]
+    run(cmd + [url])
 
 
 def render(job, src, out_path):
@@ -309,7 +316,7 @@ def main():
             else:
                 with tempfile.TemporaryDirectory() as tmp:
                     src = os.path.join(tmp, "src.mp4")
-                    download(job["url"], src)
+                    download(job["url"], src, job.get("start"), job.get("dur"))
                     render(job, src, out_path)
         except Exception as exc:
             failed += 1
