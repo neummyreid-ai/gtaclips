@@ -1,7 +1,24 @@
 {
- "updated": "2026-11-19T01:08:38+00:00",
- "count": 483,
- "errors": [],
+ "updated": "2026-11-19T01:10:15+00:00",
+ "count": 443,
+ "errors": [
+  {
+   "url": "https://www.youtube.com/watch?v=XRo2L3077NI",
+   "note": "title='PLAYING GTA 6 FOR THE FIRST TIME' live=was_live dur=10875 heatmap=0"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=vJdkqtP6qvY",
+   "note": "title='GTA 6 TRAILER REACTION' live=was_live dur=1830 heatmap=0"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=-Oc3WJcu1AE",
+   "note": "title='The SCARIEST Garten of Banban Update Yet..' live=was_live dur=3805 heatmap=0"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=FSPV2n_pRjQ",
+   "note": "title='I BEAT Escape The Backrooms ALONE!' live=was_live dur=10210 heatmap=0"
+  }
+ ],
  "clips": [
   {
    "id": "1122791762",
@@ -79,7 +96,7 @@
    "id": "3631960985",
    "streamer": "xqc",
    "title": "GTA 6 First Ever Police Chase",
-   "views": 6397,
+   "views": 6417,
    "duration": 60.0,
    "url": "https://www.twitch.tv/xqc/clip/DifferentPreciousWaffleHotPokket-wMDh_pqLv3Ve6ZOc",
    "created": 1795000731,
@@ -115,7 +132,7 @@
    "id": "4223929437",
    "streamer": "caseoh_",
    "title": "Spiders Attacking & Chasing Caseoh Again! \ud83d\ude31\ud83d\ude33\ud83e\udee3",
-   "views": 4925,
+   "views": 4932,
    "duration": 20.0,
    "url": "https://www.twitch.tv/caseoh_/clip/TangentialWanderingLyrebirdDxAbomb-PouHuoJG_PCPCvbz",
    "created": 1794985009,
@@ -148,6 +165,42 @@
    "is_gta6": false
   },
   {
+   "id": "2328781138",
+   "streamer": "ishowspeed",
+   "title": "first robbery speed",
+   "views": 3997,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/CrazyAbnegateLapwingPipeHype-fzo4DD3_M-TisQLE",
+   "created": 1795009434,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "52014617",
+   "streamer": "ishowspeed",
+   "title": "here",
+   "views": 3910,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/PeppyWittyJaguarItsBoshyTime-Y7W5ETNtNFcXOjYn",
+   "created": 1795008697,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "2150457281",
+   "streamer": "ishowspeed",
+   "title": "HAHAHAHH",
+   "views": 3732,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/CreativeHeadstrongAniseFunRun-_f88pOqgLQhawQRA",
+   "created": 1795011761,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "1559469047",
    "streamer": "kaicenat",
    "title": "\"ahhhhfuhhh\"",
@@ -163,7 +216,7 @@
    "id": "1560253933",
    "streamer": "lacy",
    "title": "uhhhh ok",
-   "views": 2911,
+   "views": 2919,
    "duration": 30.0,
    "url": "https://www.twitch.tv/lacy/clip/HumbleOpenPassionfruitPrimeMe-kw5lcvoycKcFD4j5",
    "created": 1795001715,
@@ -223,7 +276,7 @@
    "id": "1378392102",
    "streamer": "xqc",
    "title": "xQc is freakyy as shittt",
-   "views": 2518,
+   "views": 2528,
    "duration": 19.0,
    "url": "https://www.twitch.tv/xqc/clip/PluckyAggressiveYogurtSuperVinlin-NOm5zhuzbWEM1Lnm",
    "created": 1795004579,
@@ -247,10 +300,22 @@
    "id": "761551151",
    "streamer": "lacy",
    "title": "Damn bro",
-   "views": 2480,
+   "views": 2485,
    "duration": 30.0,
    "url": "https://www.twitch.tv/lacy/clip/TiredCrepuscularLettuceTebowing-_ckSEJKNEXXBWDj1",
    "created": 1795000446,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "4096338581",
+   "streamer": "ishowspeed",
+   "title": "SPEED PLAY GTA VI EARLY ACCESS",
+   "views": 2346,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/TalentedSteamyHumanHassaanChop-DL8PqlPqix6JV1lU",
+   "created": 1795008812,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -304,6 +369,18 @@
    "is_gta6": false
   },
   {
+   "id": "3176835671",
+   "streamer": "ishowspeed",
+   "title": "WOAH Jason stepbro",
+   "views": 2022,
+   "duration": 56.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/ProductiveBraveNikudonDeIlluminati-qNMmyjkr7j_nq38Z",
+   "created": 1795015524,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "774011141",
    "streamer": "kaicenat",
    "title": "kai got in gta 6 for the first time",
@@ -316,10 +393,22 @@
    "is_gta6": false
   },
   {
+   "id": "3793287936",
+   "streamer": "ishowspeed",
+   "title": "speed reacts to gta vi",
+   "views": 1809,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/SincerePluckyPepperoniDxAbomb-PvKlNZ-B7Y0IhxCv",
+   "created": 1795008810,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "834307869",
    "streamer": "lacy",
    "title": "OMG",
-   "views": 1736,
+   "views": 1740,
    "duration": 23.0,
    "url": "https://www.twitch.tv/lacy/clip/DullCalmGullUWot-yyTc1tkQ0S4Gv-5E",
    "created": 1795020201,
@@ -331,7 +420,7 @@
    "id": "2438151162",
    "streamer": "xqc",
    "title": "XQC First Ever Gameplay Of GTA 6!!!",
-   "views": 1717,
+   "views": 1718,
    "duration": 50.0,
    "url": "https://www.twitch.tv/xqc/clip/PiercingSlipperyTortoiseDuDudu-ShespqH5CNlosqhC",
    "created": 1795000392,
@@ -367,7 +456,7 @@
    "id": "2963195327",
    "streamer": "xqc",
    "title": "18+ GTA 6 First Nude Showering Scene",
-   "views": 1648,
+   "views": 1654,
    "duration": 60.0,
    "url": "https://www.twitch.tv/xqc/clip/GlamorousConcernedHerbsFutureMan-J1fdtFf4ZXDMBWLA",
    "created": 1795004770,
@@ -391,7 +480,7 @@
    "id": "865842615",
    "streamer": "kaicenat",
    "title": "gyaaat",
-   "views": 1484,
+   "views": 1497,
    "duration": 30.0,
    "url": "https://www.twitch.tv/kaicenat/clip/ViscousCallousMuleRuleFive-HpdKHtraw_2ro91m",
    "created": 1795017129,
@@ -436,6 +525,18 @@
    "is_gta6": false
   },
   {
+   "id": "559826229",
+   "streamer": "ishowspeed",
+   "title": "GTA REACTION 1",
+   "views": 1276,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/CallousBashfulMarjoramTinyFace-Nc6P-TjncT2qsYvF",
+   "created": 1794968847,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "2794967439",
    "streamer": "kaicenat",
    "title": "gta 6 reaction",
@@ -443,6 +544,18 @@
    "duration": 30.0,
    "url": "https://www.twitch.tv/kaicenat/clip/TentativeFriendlySandpiperNotLikeThis-bnrx7Wfyqgfs7ZJg",
    "created": 1794997747,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "3934691186",
+   "streamer": "ishowspeed",
+   "title": "speed runs into a fight for the first time",
+   "views": 1239,
+   "duration": 23.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/FlirtyFancyMangetoutKeepo-zrWg06dtnCooZ6IW",
+   "created": 1795010758,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -508,6 +621,18 @@
    "is_gta6": false
   },
   {
+   "id": "4121548404",
+   "streamer": "ishowspeed",
+   "title": "Ishowspeed robi gagry gagry gagry",
+   "views": 1080,
+   "duration": 5.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/EncouragingAntsyElephantTBTacoRight-rgxRdyetbHC8TzQ2",
+   "created": 1795016908,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "4154496206",
    "streamer": "typicalgamer",
    "title": "Typical gamer gets suprised!",
@@ -515,6 +640,18 @@
    "duration": 37.0,
    "url": "https://www.twitch.tv/typicalgamer/clip/AmorphousStrangeLyrebirdFloof-gb8v0UybXlp5mRv9",
    "created": 1795001619,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "2983899479",
+   "streamer": "ishowspeed",
+   "title": "i just seen a roadkill",
+   "views": 1027,
+   "duration": 16.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/PuzzledAltruisticKeyboardDendiFace-Cr8-KmLXjfi54ctI",
+   "created": 1795012361,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -547,7 +684,7 @@
    "id": "1983776029",
    "streamer": "kaicenat",
    "title": "kai gets emotional",
-   "views": 886,
+   "views": 889,
    "duration": 30.0,
    "url": "https://www.twitch.tv/kaicenat/clip/BlightedRelatedKathyKeepo-HKuu-b-IkUwSQ39d",
    "created": 1795004596,
@@ -592,6 +729,18 @@
    "is_gta6": false
   },
   {
+   "id": "1112316963",
+   "streamer": "caseoh_",
+   "title": "FOE YOE HEHH",
+   "views": 842,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/caseoh_/clip/ThirstyConcernedNarwhalTriHard-f9Qe6hnrJF419Afm",
+   "created": 1794971396,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "29535547",
    "streamer": "xqc",
    "title": "woman aim huh",
@@ -604,34 +753,10 @@
    "is_gta6": false
   },
   {
-   "id": "1112316963",
-   "streamer": "caseoh_",
-   "title": "FOE YOE HEHH",
-   "views": 837,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/ThirstyConcernedNarwhalTriHard-f9Qe6hnrJF419Afm",
-   "created": 1794971396,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "1112632495",
-   "streamer": "jynxzi",
-   "title": "Jynxy plays gta6 for the first time",
-   "views": 831,
-   "duration": 14.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/EvilKindChamoisFreakinStinkin-_Q6h9MGvEezIzSw0",
-   "created": 1795027910,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "500476674",
    "streamer": "kaicenat",
    "title": "GYATT",
-   "views": 820,
+   "views": 826,
    "duration": 30.0,
    "url": "https://www.twitch.tv/kaicenat/clip/BumblingConsiderateMagpieAsianGlow-uwONm1vYSnm95Wzn",
    "created": 1795017207,
@@ -688,10 +813,22 @@
    "is_gta6": false
   },
   {
+   "id": "1911099912",
+   "streamer": "ishowspeed",
+   "title": "SPEED PLAYING GTA 6",
+   "views": 789,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/DifferentBlindingMartenKappaPride-0r0DTjKY8R7hrnkX",
+   "created": 1795009480,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "3304759376",
    "streamer": "lacy",
    "title": "GARY VEE PEPPER SPRAYS LACY",
-   "views": 768,
+   "views": 769,
    "duration": 30.0,
    "url": "https://www.twitch.tv/lacy/clip/ChillyFriendlyBobaTBTacoRight-Nfkh31vM6MnXXcnU",
    "created": 1795044167,
@@ -739,7 +876,7 @@
    "id": "2961884287",
    "streamer": "lacy",
    "title": "this horny dog \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\u270c\ud83c\udffd",
-   "views": 659,
+   "views": 660,
    "duration": 60.0,
    "url": "https://www.twitch.tv/lacy/clip/ResoluteQuaintClamBleedPurple-w5fHeVNOnUgOYis6",
    "created": 1795009691,
@@ -784,6 +921,18 @@
    "is_gta6": false
   },
   {
+   "id": "2944329994",
+   "streamer": "ishowspeed",
+   "title": "HHAHAHHAHAHA",
+   "views": 611,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/AssiduousSpookyKoupreyDogFace-3EeIjer0tUnWSNB_",
+   "created": 1795010260,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "881987544",
    "streamer": "typicalgamer",
    "title": "first heist",
@@ -803,6 +952,18 @@
    "duration": 60.0,
    "url": "https://www.twitch.tv/xqc/clip/TameBlazingBeaverJKanStyle-2OYg7KRoQP-xgjVo",
    "created": 1795003967,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "4030128765",
+   "streamer": "ishowspeed",
+   "title": "GTA 6 is out \ud83e\udd29\ud83e\udd29",
+   "views": 582,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/ConfidentDirtyBillDAESuppy-KToxHp9159ykNiuR",
+   "created": 1795008567,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -952,6 +1113,18 @@
    "is_gta6": false
   },
   {
+   "id": "3604939008",
+   "streamer": "ishowspeed",
+   "title": "\ud83d\udd34PLAYING GTA 6 EARLY ACCESS GAMEPLAY GET IN HERE!",
+   "views": 506,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/SweetAmusedHedgehogAsianGlow-PXTDpttjn4g_v90_",
+   "created": 1795008278,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "1902916318",
    "streamer": "lacy",
    "title": "pepper spray kid got caught",
@@ -976,6 +1149,42 @@
    "is_gta6": false
   },
   {
+   "id": "1315810111",
+   "streamer": "ishowspeed",
+   "title": "SPEED JAVKS OLD LADY VEHICHLE",
+   "views": 479,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/HilariousTiredManateeFrankerZ-d3IrR90WPncoIVyg",
+   "created": 1795013927,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "1801544052",
+   "streamer": "ishowspeed",
+   "title": "speed 1st time flying a plane in gta vi",
+   "views": 476,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/SuspiciousSmokyKumquatEagleEye-OfXyB412evujnSrr",
+   "created": 1795010791,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "695290226",
+   "streamer": "ishowspeed",
+   "title": "speed",
+   "views": 469,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/TrappedObliviousSharkMoreCowbell-c8N9-I4Lf-TA13Cv",
+   "created": 1795015537,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "2735228948",
    "streamer": "xqc",
    "title": "xqc after the first mission on GTA6",
@@ -995,6 +1204,18 @@
    "duration": 10.0,
    "url": "https://www.twitch.tv/lacy/clip/FitAmorphousBunnySmoocherZ-h_UG10Q6nBXhb6eh",
    "created": 1795005029,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "548838092",
+   "streamer": "ishowspeed",
+   "title": "Ggg",
+   "views": 461,
+   "duration": 59.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/SullenBombasticBeefANELE-jGMlO-uekM3W3kVo",
+   "created": 1795009739,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -1072,18 +1293,6 @@
    "is_gta6": false
   },
   {
-   "id": "1419190810",
-   "streamer": "jynxzi",
-   "title": "hell no",
-   "views": 415,
-   "duration": 33.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/RelentlessSavageTomatoDAESuppy-XwOHThFQTJaruvrb",
-   "created": 1795029216,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "4175268662",
    "streamer": "xqc",
    "title": "nopixel scooter battery explosion chain reaction | @Lt_Custard absolute carnage | @xqc reacts  #GTA5",
@@ -1091,6 +1300,18 @@
    "duration": 36.0,
    "url": "https://www.twitch.tv/xqc/clip/CrackyNastyPlumUWot-zpGiwiZ9Ps1Dh0L2",
    "created": 1794981688,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "1357358844",
+   "streamer": "ishowspeed",
+   "title": "Speed's first time playing GTA6",
+   "views": 409,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/InexpensiveBoxySwordTebowing-yJxmqmLyUEXMUko9",
+   "created": 1795008791,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -1108,10 +1329,22 @@
    "is_gta6": false
   },
   {
+   "id": "2554501966",
+   "streamer": "ishowspeed",
+   "title": "bahaha",
+   "views": 393,
+   "duration": 28.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/HumbleGeniusStrawberryBleedPurple-CYhEi_LZY9mbAQxo",
+   "created": 1795038747,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "831177904",
    "streamer": "clix",
    "title": "Slow motion fight",
-   "views": 392,
+   "views": 393,
    "duration": 30.0,
    "url": "https://www.twitch.tv/clix/clip/RefinedObservantBulgogiNerfRedBlaster-QJo84hJ6Xewzz7nd",
    "created": 1795001543,
@@ -1120,13 +1353,25 @@
    "is_gta6": false
   },
   {
-   "id": "1405950324",
-   "streamer": "jynxzi",
-   "title": "GYATT",
-   "views": 391,
+   "id": "2122772652",
+   "streamer": "ishowspeed",
+   "title": "speed acting sus",
+   "views": 389,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/MoldySmoggyDonkeyThisIsSparta-mXBDQ8JcdmTZV7p5",
-   "created": 1795031095,
+   "url": "https://www.twitch.tv/ishowspeed/clip/SavoryEagerLlamaLeeroyJenkins-fzfiphCY-mKdwJvr",
+   "created": 1795015240,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "3613686091",
+   "streamer": "ishowspeed",
+   "title": "lucia prison",
+   "views": 385,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/LivelyAdventurousCockroachBloodTrail-WNBymO8JZ9swIqcO",
+   "created": 1795009184,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -1144,10 +1389,22 @@
    "is_gta6": false
   },
   {
+   "id": "1456531442",
+   "streamer": "ishowspeed",
+   "title": "dayum",
+   "views": 381,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/FlaccidPhilanthropicSoymilkCoolStoryBob-Doh5BDaNQUdfM-qY",
+   "created": 1795015330,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "812873723",
    "streamer": "lacy",
    "title": "Lacy get's Pepper sprayed at a meet and Greet",
-   "views": 375,
+   "views": 376,
    "duration": 60.0,
    "url": "https://www.twitch.tv/lacy/clip/BovinePatientKimchiAMPTropPunch-vRamyuqEHfk2kzt-",
    "created": 1795044530,
@@ -1216,13 +1473,13 @@
    "is_gta6": false
   },
   {
-   "id": "2051792111",
-   "streamer": "jynxzi",
-   "title": "\ud83d\ude02\ud83d\ude02",
-   "views": 321,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/RacyFreezingWebDuDudu-L5DqegYwxBAaJyMT",
-   "created": 1795034770,
+   "id": "1822150347",
+   "streamer": "ishowspeed",
+   "title": "Roblox kids troll speed on the first day of GTA 6",
+   "views": 323,
+   "duration": 12.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/TardyOptimisticMartenLitty-76I-FzuDHnzcdbK8",
+   "created": 1795008458,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -1288,6 +1545,18 @@
    "is_gta6": false
   },
   {
+   "id": "2590071428",
+   "streamer": "ishowspeed",
+   "title": "GTA 6 looks so real",
+   "views": 303,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/PopularMildTardigradePJSalt-P_5m9xm687AjbLWq",
+   "created": 1795009964,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "3026119387",
    "streamer": "lacy",
    "title": "lol",
@@ -1307,6 +1576,18 @@
    "duration": 29.0,
    "url": "https://www.twitch.tv/xqc/clip/TrappedViscousTrayLitFam-94rC4rr_voHcFJ0L",
    "created": 1794999858,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "2869001542",
+   "streamer": "ishowspeed",
+   "title": "speed",
+   "views": 294,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/CredulousUnusualWoodpeckerHumbleLife-dhKu7kVGdTmvz6LB",
+   "created": 1795009623,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -1444,13 +1725,13 @@
    "is_gta6": false
   },
   {
-   "id": "47107943",
-   "streamer": "lacy",
-   "title": "LACYY FIGHTING WITH AN ALIGATOR!!!!",
-   "views": 275,
-   "duration": 21.0,
-   "url": "https://www.twitch.tv/lacy/clip/GentleBrainyTortoiseKappa-SqJmUKvZs2E33xOH",
-   "created": 1795027561,
+   "id": "2373304131",
+   "streamer": "ishowspeed",
+   "title": "Speed Early Access to GTA!!!",
+   "views": 276,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/ModernNurturingBurritoStinkyCheese-OkJHFHOOrsGfQ6hZ",
+   "created": 1795008780,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -1468,13 +1749,13 @@
    "is_gta6": false
   },
   {
-   "id": "669008231",
-   "streamer": "xqc",
-   "title": "THIS IS INSANE",
-   "views": 271,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/xqc/clip/OddManlyRabbitWOOP-acjDQL8dY_iSbuGm",
-   "created": 1795001182,
+   "id": "47107943",
+   "streamer": "lacy",
+   "title": "LACYY FIGHTING WITH AN ALIGATOR!!!!",
+   "views": 275,
+   "duration": 21.0,
+   "url": "https://www.twitch.tv/lacy/clip/GentleBrainyTortoiseKappa-SqJmUKvZs2E33xOH",
+   "created": 1795027561,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -1483,10 +1764,22 @@
    "id": "1061601737",
    "streamer": "clix",
    "title": "clix first death in gta 6",
-   "views": 271,
+   "views": 272,
    "duration": 48.0,
    "url": "https://www.twitch.tv/clix/clip/CrackyTolerantCobblerChocolateRain-PfcE7_DCCBGMEgRc",
    "created": 1795006020,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "669008231",
+   "streamer": "xqc",
+   "title": "THIS IS INSANE",
+   "views": 271,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/xqc/clip/OddManlyRabbitWOOP-acjDQL8dY_iSbuGm",
+   "created": 1795001182,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -1540,6 +1833,18 @@
    "is_gta6": false
   },
   {
+   "id": "915505290",
+   "streamer": "ishowspeed",
+   "title": "sinp",
+   "views": 257,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/MuddyWiseBadgerMrDestructoid-BmQ1cz2wiN3JfEA8",
+   "created": 1795013561,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "2135455779",
    "streamer": "kaicenat",
    "title": "kai tripping over Opening GTA 6",
@@ -1552,18 +1857,6 @@
    "is_gta6": false
   },
   {
-   "id": "3665563547",
-   "streamer": "jynxzi",
-   "title": "clip farm",
-   "views": 250,
-   "duration": 59.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/SwissWiseTrollWTRuck-u_xKDnqjm_xevgiu",
-   "created": 1795029196,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "671920507",
    "streamer": "kaicenat",
    "title": "Kai Cenant playing GTA 6 \ud83d\ude02",
@@ -1571,6 +1864,30 @@
    "duration": 30.0,
    "url": "https://www.twitch.tv/kaicenat/clip/BlightedCallousCougarCurseLit-dvxU84ppwpkvBiMH",
    "created": 1795008395,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "2528008394",
+   "streamer": "ishowspeed",
+   "title": "xd",
+   "views": 247,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/WrongEncouragingLyrebirdSwiftRage-AQHs5h7yoJPTKEYv",
+   "created": 1795015393,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "876465606",
+   "streamer": "ishowspeed",
+   "title": "Stealing a bike",
+   "views": 246,
+   "duration": 20.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/ConfidentFaithfulTubersPeteZarollTie-9nDvYMrDuZjOH7bq",
+   "created": 1795012884,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -1636,18 +1953,6 @@
    "is_gta6": false
   },
   {
-   "id": "1804710762",
-   "streamer": "jynxzi",
-   "title": "aligator",
-   "views": 227,
-   "duration": 40.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/FastBeautifulTigerBrokeBack-720YxwNhOm5O2f6r",
-   "created": 1795031873,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "457731190",
    "streamer": "kaicenat",
    "title": "Clip 1",
@@ -1667,6 +1972,18 @@
    "duration": 60.0,
    "url": "https://www.twitch.tv/xqc/clip/FrigidCarefulKittenCmonBruh-cOT5WakbyxLONwRG",
    "created": 1795008027,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "2495670993",
+   "streamer": "ishowspeed",
+   "title": "divertido",
+   "views": 220,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/SullenMushyToadRiPepperonis-X3cHCFmq9kIrTsxn",
+   "created": 1795015583,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -1768,22 +2085,10 @@
    "is_gta6": false
   },
   {
-   "id": "2610663612",
-   "streamer": "jynxzi",
-   "title": "lol",
-   "views": 208,
-   "duration": 36.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/CogentPeppyBibimbapBibleThump-AAzYAFRYt8UtC8we",
-   "created": 1794990502,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "2272301420",
    "streamer": "kaicenat",
    "title": "KAI CENAT GOT BANNED BECAUSE OF GTA 6 NUDITY",
-   "views": 207,
+   "views": 208,
    "duration": 52.0,
    "url": "https://www.twitch.tv/kaicenat/clip/FaithfulStormyYogurtYouWHY-6nYOxZpjcdPXX3vZ",
    "created": 1795031879,
@@ -1823,6 +2128,18 @@
    "duration": 30.0,
    "url": "https://www.twitch.tv/xqc/clip/OptimisticCrypticPonyKlappa-AC8vY25cMQOtvV_i",
    "created": 1794997932,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "1276970454",
+   "streamer": "ishowspeed",
+   "title": "speed first opens gta 6",
+   "views": 203,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/SlipperySourSkirretDerp-5YAAwp-ASEJFMsLI",
+   "created": 1795008655,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -1876,13 +2193,13 @@
    "is_gta6": false
   },
   {
-   "id": "1847216173",
-   "streamer": "jynxzi",
-   "title": "bro might got a point\ud83d\ude2d",
-   "views": 190,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/PeppyMoldyHerringPanicVis-k-dxRIkm_ABor9QQ",
-   "created": 1795028367,
+   "id": "1853441577",
+   "streamer": "ishowspeed",
+   "title": "NPC BE BLIND ASF\ud83d\ude2d\ud83d\ude2d",
+   "views": 191,
+   "duration": 21.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/RenownedAmericanWeaselHeyGirl-hGW-RzSEq7-5224X",
+   "created": 1795013338,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -1903,7 +2220,7 @@
    "id": "1485895323",
    "streamer": "kaicenat",
    "title": "fat",
-   "views": 186,
+   "views": 187,
    "duration": 37.0,
    "url": "https://www.twitch.tv/kaicenat/clip/HungryWimpyMangetoutWTRuck-rY8XbhqS1VT0fc6L",
    "created": 1795017216,
@@ -1972,18 +2289,6 @@
    "is_gta6": false
   },
   {
-   "id": "2517436130",
-   "streamer": "jynxzi",
-   "title": "gooner",
-   "views": 174,
-   "duration": 37.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/AgitatedHonorableDonutSMOrc-mCYOo59YhrrooRrF",
-   "created": 1795030329,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "1413931169",
    "streamer": "xqc",
    "title": "\ud83c\udf34LIVE\ud83c\udf34GTA 6\ud83c\udf34 AT 6AM EST\ud83c\udf34STUFF BEFORE\ud83c\udf34ALERT\ud83c\udf34NOT A DRILL\ud83c\udf34NZ FLIGHT TAKEN\ud83c\udf34LIVE\ud83c\udf34QUICK\ud83c\udf34DONT MISS IT\ud83c\udf34ONESHOTTING THE GAME?\ud83c\udf34",
@@ -2047,10 +2352,34 @@
    "id": "1862581237",
    "streamer": "caseoh_",
    "title": "not the arse",
-   "views": 157,
+   "views": 160,
    "duration": 30.0,
    "url": "https://www.twitch.tv/caseoh_/clip/TenderAssiduousTrayMikeHogu-kBARE4wnaV1W1zIE",
    "created": 1795034884,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "2178080787",
+   "streamer": "ishowspeed",
+   "title": "Spee",
+   "views": 156,
+   "duration": 47.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/ClearSplendidDragonflyJonCarnage-DMOcm4e6EBSdtVH5",
+   "created": 1795012288,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "1973422659",
+   "streamer": "ishowspeed",
+   "title": "i",
+   "views": 155,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/AlertTalentedFungusFreakinStinkin-psPt7CmcPGZqHmwp",
+   "created": 1795009799,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -2063,6 +2392,18 @@
    "duration": 30.0,
    "url": "https://www.twitch.tv/kaicenat/clip/PunchySpeedyCasetteRalpherZ-oNhHMUfHYqCFg6lg",
    "created": 1795029260,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "2339420278",
+   "streamer": "ishowspeed",
+   "title": "KKKKKKKKK",
+   "views": 152,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/BusyRudeFriseeMrDestructoid-OJUxO3DLdRRGvnLD",
+   "created": 1795015500,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -2083,7 +2424,7 @@
    "id": "545230367",
    "streamer": "kaicenat",
    "title": "LOOK AT THE HOOOOE\u2019sss",
-   "views": 148,
+   "views": 149,
    "duration": 30.0,
    "url": "https://www.twitch.tv/kaicenat/clip/TriangularAmericanOryxSaltBae-6cXK0z1vT8Js16lK",
    "created": 1795007666,
@@ -2188,18 +2529,6 @@
    "is_gta6": false
   },
   {
-   "id": "3254857581",
-   "streamer": "jynxzi",
-   "title": "mandy gets crazy",
-   "views": 133,
-   "duration": 46.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/VenomousKathishAardvarkKappaWealth-Hxj1rxekaa3BsOQn",
-   "created": 1795034902,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "1728947650",
    "streamer": "darkviperau",
    "title": "[PS5 Pro] The BEST GTA VI LAUNCH Of All Time (New Zealand Start Time)",
@@ -2236,6 +2565,30 @@
    "is_gta6": false
   },
   {
+   "id": "3894852083",
+   "streamer": "ishowspeed",
+   "title": "speed commence Gta VI",
+   "views": 129,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/SpinelessDifferentMomImGlitch-Bq0fYjt1N2Vk7dcw",
+   "created": 1795008872,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "830456234",
+   "streamer": "ishowspeed",
+   "title": "Lmfao",
+   "views": 129,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/EsteemedSuccessfulInternFunRun-zlOsgw9o1CSHDA6T",
+   "created": 1795009673,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "3609102817",
    "streamer": "clix",
    "title": "club",
@@ -2243,18 +2596,6 @@
    "duration": 60.0,
    "url": "https://www.twitch.tv/clix/clip/ExcitedAnimatedFennelCharlietheUnicorn-QA5ruBT2wWdQcrOM",
    "created": 1795008933,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "4016319181",
-   "streamer": "jynxzi",
-   "title": "junko getting rage baited by an ai",
-   "views": 127,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/BoxyWealthyFlamingoSquadGoals-mRnNlefJSv-gcNPj",
-   "created": 1795027786,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -2296,6 +2637,18 @@
    "is_gta6": false
   },
   {
+   "id": "2939408872",
+   "streamer": "caseoh_",
+   "title": "Case Oh GTA VI",
+   "views": 123,
+   "duration": 50.0,
+   "url": "https://www.twitch.tv/caseoh_/clip/YawningKathishDinosaurKAPOW-i2phQ0SH667yyu4J",
+   "created": 1795032516,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "2654722956",
    "streamer": "typicalgamer",
    "title": "\ud83d\udd34 GTA 6 MARATHON! (EARLY ACCESS, I'M IN NEW ZEALAND) \ud83d\udd34 TOKEN HUNT PAUSED \ud83d\udd34",
@@ -2308,13 +2661,25 @@
    "is_gta6": false
   },
   {
-   "id": "2939408872",
-   "streamer": "caseoh_",
-   "title": "Case Oh GTA VI",
-   "views": 122,
-   "duration": 50.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/YawningKathishDinosaurKAPOW-i2phQ0SH667yyu4J",
-   "created": 1795032516,
+   "id": "1109601579",
+   "streamer": "ishowspeed",
+   "title": "ishowspeed playing GTA6",
+   "views": 120,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/AltruisticCoweringBatWoofer-jShWLLxLUyUqUoUq",
+   "created": 1795009414,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "3604734200",
+   "streamer": "ishowspeed",
+   "title": "hh",
+   "views": 119,
+   "duration": 24.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/CorrectTriangularNostrilDancingBanana-dVoFKvRcol6MM5D_",
+   "created": 1795008691,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -2339,6 +2704,18 @@
    "duration": 11.0,
    "url": "https://www.twitch.tv/darkviperau/clip/TriangularShakingChoughCopyThis-qO8EkBPqr3CIqfPB",
    "created": 1794996256,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "2879602418",
+   "streamer": "ishowspeed",
+   "title": "cyboe",
+   "views": 117,
+   "duration": 8.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/CleanProductiveWombatBlargNaut-IHByT1AWiMXGLI-I",
+   "created": 1795015942,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -2404,6 +2781,18 @@
    "is_gta6": false
   },
   {
+   "id": "2678721533",
+   "streamer": "ishowspeed",
+   "title": "borrrr",
+   "views": 111,
+   "duration": 15.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/LightEvilQueleaLitFam-ues9L-NlLxKDRclp",
+   "created": 1795038634,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "2307220707",
    "streamer": "kaicenat",
    "title": "LISTEN!!!!!!!",
@@ -2411,6 +2800,30 @@
    "duration": 47.0,
    "url": "https://www.twitch.tv/kaicenat/clip/DirtyAnimatedEggnogKevinTurtle-_6fTaisd09flsZ9g",
    "created": 1795017380,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "3849225180",
+   "streamer": "ishowspeed",
+   "title": "break up",
+   "views": 109,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/BetterVastJackalUWot-uF8Gq2U9lWz-P8Ih",
+   "created": 1795015497,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "3904291235",
+   "streamer": "ishowspeed",
+   "title": "speed first shot",
+   "views": 109,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/GlutenFreeFrozenStarlingDoggo-kNzSFKEzTVmw0x4N",
+   "created": 1795009548,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -2476,6 +2889,18 @@
    "is_gta6": false
   },
   {
+   "id": "183324891",
+   "streamer": "ishowspeed",
+   "title": "i show speed",
+   "views": 103,
+   "duration": 32.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/BumblingDeafFalconUnSane-H4YcZBSPo8jFIu3J",
+   "created": 1795012489,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "3568757803",
    "streamer": "xqc",
    "title": "\ud83c\udf34LIVE\ud83c\udf34GTA 6\ud83c\udf34 AT 6AM EST\ud83c\udf34STUFF BEFORE\ud83c\udf34ALERT\ud83c\udf34NOT A DRILL\ud83c\udf34NZ FLIGHT TAKEN\ud83c\udf34LIVE\ud83c\udf34QUICK\ud83c\udf34DONT MISS IT\ud83c\udf34ONESHOTTING THE GAME?\ud83c\udf34",
@@ -2483,6 +2908,18 @@
    "duration": 30.0,
    "url": "https://www.twitch.tv/xqc/clip/SmilingLittleDragonfruitSmoocherZ-sh7FbrFGzucXDyKh",
    "created": 1794983873,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "3837964127",
+   "streamer": "ishowspeed",
+   "title": "\u0647\u0648\u0634\u0629 \u0633\u0628\u064a\u062f",
+   "views": 101,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/TalentedRespectfulMangoVoteNay-QNA9xnOc4GtmVixU",
+   "created": 1795012242,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -2507,6 +2944,18 @@
    "duration": 60.0,
    "url": "https://www.twitch.tv/kaicenat/clip/TrustworthyOpenDurianFrankerZ-WxnjPFzWfgTAqc4W",
    "created": 1795017352,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "1014200591",
+   "streamer": "ishowspeed",
+   "title": "GTA 6",
+   "views": 99,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/GrossGiftedSproutTriHard-D_XsXBW_aCpmFOPA",
+   "created": 1795015335,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -2560,6 +3009,42 @@
    "is_gta6": false
   },
   {
+   "id": "2032388977",
+   "streamer": "ishowspeed",
+   "title": "sped",
+   "views": 94,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/SuperDifferentTarsierPRChase-MNpCDEcTt3ICXgQV",
+   "created": 1795009558,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "788374116",
+   "streamer": "ishowspeed",
+   "title": "DAMN",
+   "views": 94,
+   "duration": 16.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/NastyUnsightlyFriseePeanutButterJellyTime-YmWQYH2zemO5_bOX",
+   "created": 1795030391,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "3548243040",
+   "streamer": "ishowspeed",
+   "title": "Aysho Speed \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+   "views": 94,
+   "duration": 58.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/MushyAuspiciousThymeCeilingCat-Eirf0WCGpbMk4eIh",
+   "created": 1795030531,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "4250732475",
    "streamer": "typicalgamer",
    "title": "Typical Gamer learns how to fly in gta",
@@ -2572,18 +3057,6 @@
    "is_gta6": false
   },
   {
-   "id": "2524975015",
-   "streamer": "clix",
-   "title": "club",
-   "views": 94,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/clix/clip/SpicyPricklySwordGOWSkull-9k6HzkFTv4cSTc64",
-   "created": 1795005858,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "2490671611",
    "streamer": "clix",
    "title": "this mission is awesome",
@@ -2591,6 +3064,18 @@
    "duration": 24.0,
    "url": "https://www.twitch.tv/clix/clip/SpicyEndearingBaboonWholeWheat-EPBm7h3U8tLfw7uR",
    "created": 1795001417,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "2524975015",
+   "streamer": "clix",
+   "title": "club",
+   "views": 94,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/clix/clip/SpicyPricklySwordGOWSkull-9k6HzkFTv4cSTc64",
+   "created": 1795005858,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -2611,7 +3096,7 @@
    "id": "264582997",
    "streamer": "kaicenat",
    "title": "\ud83c\udf34PLAYING GTA 6 FOR THE FIRST TIME\ud83c\udf34",
-   "views": 91,
+   "views": 93,
    "duration": 60.0,
    "url": "https://www.twitch.tv/kaicenat/clip/PlacidAgileMallardKippa-7ExcHv_OViP71nZ4",
    "created": 1795007232,
@@ -2632,18 +3117,6 @@
    "is_gta6": false
   },
   {
-   "id": "1965176297",
-   "streamer": "kaicenat",
-   "title": "kai cenat dumps body in the river",
-   "views": 89,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/kaicenat/clip/AntsySucculentChipmunkFreakinStinkin-XbiiNtiBWyOtnNS8",
-   "created": 1795014151,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "581630811",
    "streamer": "kaicenat",
    "title": "GTA First look - Lets goooooo",
@@ -2651,6 +3124,18 @@
    "duration": 30.0,
    "url": "https://www.twitch.tv/kaicenat/clip/SavoryPlayfulPotAMPTropPunch-JGCWDpeS4G-u8loX",
    "created": 1795007871,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "1965176297",
+   "streamer": "kaicenat",
+   "title": "kai cenat dumps body in the river",
+   "views": 89,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/kaicenat/clip/AntsySucculentChipmunkFreakinStinkin-XbiiNtiBWyOtnNS8",
+   "created": 1795014151,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -2668,6 +3153,18 @@
    "is_gta6": false
   },
   {
+   "id": "45611397",
+   "streamer": "xqc",
+   "title": "damn",
+   "views": 89,
+   "duration": 48.0,
+   "url": "https://www.twitch.tv/xqc/clip/LitigiousCourteousCourgetteUncleNox--kQvxyFOR4y7MB5z",
+   "created": 1794985598,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "3368062695",
    "streamer": "xqc",
    "title": "big balls on TV 18+",
@@ -2680,13 +3177,25 @@
    "is_gta6": false
   },
   {
-   "id": "45611397",
-   "streamer": "xqc",
-   "title": "damn",
-   "views": 88,
-   "duration": 48.0,
-   "url": "https://www.twitch.tv/xqc/clip/LitigiousCourteousCourgetteUncleNox--kQvxyFOR4y7MB5z",
-   "created": 1794985598,
+   "id": "3189666134",
+   "streamer": "ishowspeed",
+   "title": "Grand Theft Auto VI",
+   "views": 87,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/TastyCourageousYakTBTacoRight-8pB-GIKQdXwq4ZzR",
+   "created": 1795011787,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "569973996",
+   "streamer": "ishowspeed",
+   "title": "ishiwspeed tries to steal grandma bike",
+   "views": 87,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/PunchyPowerfulTireNerfRedBlaster-5m2GYYU0lImNmQHK",
+   "created": 1795013782,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -2699,6 +3208,18 @@
    "duration": 53.0,
    "url": "https://www.twitch.tv/clix/clip/PunchyLaconicSquidDendiFace-l6ikvdUwQfvQe5hR",
    "created": 1794983930,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "3391267355",
+   "streamer": "kaicenat",
+   "title": "\u2744\ufe0f\u2744\ufe0f\u2744\ufe0f",
+   "views": 86,
+   "duration": 36.0,
+   "url": "https://www.twitch.tv/kaicenat/clip/PeppyFunGaurPunchTrees-edM6JKBegYQ6zSk-",
+   "created": 1795037387,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -2728,6 +3249,18 @@
    "is_gta6": false
   },
   {
+   "id": "333725966",
+   "streamer": "kaicenat",
+   "title": "gta 6 reaction",
+   "views": 84,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/kaicenat/clip/ObedientPoisedRingM4xHeh-AFL2nGf7HUtXFC9Q",
+   "created": 1794982616,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "1188737345",
    "streamer": "clix",
    "title": "\ud83d\udea8 FIRST PERSON TO PLAY GTA \ud83d\udea8 EARLY ACCESS \ud83d\udea8 24/7 MARATHON \ud83d\udea8 PS5 GIVEAWAYS",
@@ -2740,13 +3273,25 @@
    "is_gta6": false
   },
   {
-   "id": "2775260092",
-   "streamer": "jynxzi",
-   "title": "[679/730] \ud83c\udfd6\ufe0f  FIRST TIME PLAYING GTA 6 \ud83c\udfd6\ufe0f  MY HOME STATE OF FLORIDA \ud83c\udfd6\ufe0f",
-   "views": 82,
+   "id": "3595638237",
+   "streamer": "ishowspeed",
+   "title": "Lets goo",
+   "views": 81,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/AthleticPrettyVanillaPanicVis-ylHEtgKPOAZ8GXNx",
-   "created": 1795028369,
+   "url": "https://www.twitch.tv/ishowspeed/clip/SquareAbnegateDeerFailFish-Bg6DFvpZeTq_nCO0",
+   "created": 1795008634,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "3449520161",
+   "streamer": "ishowspeed",
+   "title": "speed playing GTA 6 \ud83e\udd2f",
+   "views": 80,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/PrettiestSpikyYakinikuDatSheffy-4lKh-v34LQQn2wpc",
+   "created": 1795008544,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -2771,6 +3316,18 @@
    "duration": 60.0,
    "url": "https://www.twitch.tv/caseoh_/clip/CheerfulSpikyPlumagePeteZarollTie-PCPzskJgXDg_G5q2",
    "created": 1795037438,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "3922384572",
+   "streamer": "ishowspeed",
+   "title": ".",
+   "views": 79,
+   "duration": 37.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/TameFrozenSwordMVGame-G-vt5GCGBJHtVS0n",
+   "created": 1795010305,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -2803,7 +3360,7 @@
    "id": "2661437621",
    "streamer": "clix",
    "title": "Lacy says whats hes gonna do to Lucia",
-   "views": 75,
+   "views": 76,
    "duration": 30.0,
    "url": "https://www.twitch.tv/clix/clip/RespectfulElatedBananaPupper-ILZ1rjizo6KPgZ4w",
    "created": 1794999115,
@@ -2812,10 +3369,22 @@
    "is_gta6": false
   },
   {
+   "id": "2320554",
+   "streamer": "ishowspeed",
+   "title": "suprised",
+   "views": 75,
+   "duration": 28.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/WildThankfulDoveJonCarnage-WJqevGg88SKcVXMj",
+   "created": 1795009805,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "1303821573",
    "streamer": "xqc",
    "title": "dawidjasper reference",
-   "views": 74,
+   "views": 75,
    "duration": 7.0,
    "url": "https://www.twitch.tv/xqc/clip/TenaciousVibrantFiddleheadsCoolStoryBro-mAc3sD3u2uZrHpdt",
    "created": 1795004817,
@@ -2860,13 +3429,37 @@
    "is_gta6": false
   },
   {
-   "id": "2518107728",
-   "streamer": "typicalgamer",
-   "title": "typical gamer loads up gta 6",
+   "id": "4141004997",
+   "streamer": "ishowspeed",
+   "title": "hhhhhhhhhhh",
    "views": 72,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/typicalgamer/clip/DepressedStrangeDragonfruitRickroll-3bJjuLCVtD6zAT3z",
-   "created": 1794999685,
+   "url": "https://www.twitch.tv/ishowspeed/clip/TrustworthyDelightfulRaisinNononoCat-Mu-e6LFJxPSXwLi_",
+   "created": 1795013581,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "1730647519",
+   "streamer": "ishowspeed",
+   "title": "..",
+   "views": 72,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/CleanMildBadgerSuperVinlin-yDEni7y7AeKIbsPW",
+   "created": 1795010392,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "1257098398",
+   "streamer": "ishowspeed",
+   "title": "speed going to play game",
+   "views": 72,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/PrettiestInquisitiveCocoaRalpherZ-9XAODoM81vB_jZDS",
+   "created": 1794978765,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -2884,6 +3477,18 @@
    "is_gta6": false
   },
   {
+   "id": "2518107728",
+   "streamer": "typicalgamer",
+   "title": "typical gamer loads up gta 6",
+   "views": 72,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/typicalgamer/clip/DepressedStrangeDragonfruitRickroll-3bJjuLCVtD6zAT3z",
+   "created": 1794999685,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "4266967827",
    "streamer": "xqc",
    "title": "NIICE",
@@ -2891,6 +3496,18 @@
    "duration": 23.0,
    "url": "https://www.twitch.tv/xqc/clip/BenevolentPlausibleRingSMOrc-wzRXBKEsh96Cwbaa",
    "created": 1795030281,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "2579196413",
+   "streamer": "clix",
+   "title": "second",
+   "views": 72,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/clix/clip/SmallBlightedMacaroniCharlieBitMe-F3O-LHh_DUaSBYE-",
+   "created": 1795012651,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -2920,49 +3537,13 @@
    "is_gta6": false
   },
   {
-   "id": "2579196413",
-   "streamer": "clix",
-   "title": "second",
-   "views": 71,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/clix/clip/SmallBlightedMacaroniCharlieBitMe-F3O-LHh_DUaSBYE-",
-   "created": 1795012651,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "3469898762",
-   "streamer": "jynxzi",
-   "title": "jynxzi said xbox is better than ps5",
+   "id": "2434967252",
+   "streamer": "ishowspeed",
+   "title": "\u0447",
    "views": 70,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/WonderfulSpineyFlamingoHoneyBadger-Psd5MW8H_E-FrHYn",
-   "created": 1795027448,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "298560605",
-   "streamer": "caseoh_",
-   "title": "stay in the bike lane",
-   "views": 70,
-   "duration": 14.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/AnnoyingIcyStingrayGrammarKing-BmFmGazZQ_bddwY1",
-   "created": 1795036988,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "298560605",
-   "streamer": "caseoh_",
-   "title": "stay in the bike lane",
-   "views": 70,
-   "duration": 14.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/AnnoyingIcyStingrayGrammarKing-BmFmGazZQ_bddwY1",
-   "created": 1795036988,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/ishowspeed/clip/BitterCulturedChamoisWoofer-27KryiqV4n_bIv0N",
+   "created": 1795011259,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -2971,7 +3552,7 @@
    "id": "622135135",
    "streamer": "clix",
    "title": "JSHFG",
-   "views": 69,
+   "views": 70,
    "duration": 60.0,
    "url": "https://www.twitch.tv/clix/clip/RichBlazingClintmullinsDBstyle-PesOVFk3WUNdx0mG",
    "created": 1794999710,
@@ -2980,25 +3561,13 @@
    "is_gta6": false
   },
   {
-   "id": "1075320248",
+   "id": "4173941951",
    "streamer": "caseoh_",
-   "title": "FOH YO HED",
-   "views": 69,
-   "duration": 33.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/RespectfulAthleticChowderFUNgineer-lpyYS3HYa0BicFxT",
-   "created": 1794973940,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "3597586488",
-   "streamer": "jynxzi",
-   "title": "GTA IS 6 HERE !!!!",
-   "views": 68,
-   "duration": 53.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/ViscousCarelessGrassSMOrc-S-c5jB064rCQBocw",
-   "created": 1795028278,
+   "title": "lol",
+   "views": 70,
+   "duration": 10.0,
+   "url": "https://www.twitch.tv/caseoh_/clip/InexpensivePiliablePeanutFunRun-slg3hlEiGCB1uCFt",
+   "created": 1795032300,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -3011,18 +3580,6 @@
    "duration": 49.0,
    "url": "https://www.twitch.tv/typicalgamer/clip/FreezingSparklingGiraffeMcaT-ohtDE2cHUBR6uOI-",
    "created": 1794977837,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "1860774983",
-   "streamer": "xqc",
-   "title": "opcje D",
-   "views": 67,
-   "duration": 41.0,
-   "url": "https://www.twitch.tv/xqc/clip/CautiousFlirtyMouse4Head-In-kzgWK2cO1PTck",
-   "created": 1795000258,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -3052,25 +3609,13 @@
    "is_gta6": false
   },
   {
-   "id": "3822603651",
-   "streamer": "caseoh_",
-   "title": "baby face",
+   "id": "1860774983",
+   "streamer": "xqc",
+   "title": "opcje D",
    "views": 67,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/TalentedJollyMeerkatTF2John-LDU3OsuPJAG2sR_g",
-   "created": 1795031290,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "407744501",
-   "streamer": "jynxzi",
-   "title": "Jynxzi looks at a mans shaft....",
-   "views": 66,
-   "duration": 38.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/PowerfulCrazyCrowVoHiYo-RsHqGaGRXzGek1wf",
-   "created": 1795048488,
+   "duration": 41.0,
+   "url": "https://www.twitch.tv/xqc/clip/CautiousFlirtyMouse4Head-In-kzgWK2cO1PTck",
+   "created": 1795000258,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -3136,6 +3681,18 @@
    "is_gta6": false
   },
   {
+   "id": "2514121326",
+   "streamer": "clix",
+   "title": "cant fly to save a life",
+   "views": 63,
+   "duration": 25.0,
+   "url": "https://www.twitch.tv/clix/clip/CarelessInspiringAlligatorSSSsss-clLy0dMfWC05fQjz",
+   "created": 1795001806,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "1046373081",
    "streamer": "xqc",
    "title": "WTF IS GOING ON",
@@ -3148,13 +3705,13 @@
    "is_gta6": false
   },
   {
-   "id": "2514121326",
+   "id": "2287027638",
    "streamer": "clix",
-   "title": "cant fly to save a life",
+   "title": "clix play lucia",
    "views": 62,
-   "duration": 25.0,
-   "url": "https://www.twitch.tv/clix/clip/CarelessInspiringAlligatorSSSsss-clLy0dMfWC05fQjz",
-   "created": 1795001806,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/clix/clip/AgitatedEnticingHedgehogSmoocherZ-rnkr80SphCzxwkz8",
+   "created": 1795000290,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -3167,30 +3724,6 @@
    "duration": 30.0,
    "url": "https://www.twitch.tv/typicalgamer/clip/BlazingProductiveWebDogFace-0OJzDmcW6csST-IF",
    "created": 1795007539,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "1721965944",
-   "streamer": "jynxzi",
-   "title": "roo",
-   "views": 61,
-   "duration": 21.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/CredulousPowerfulWitchDoubleRainbow-YU5esvNuTr8JqM_c",
-   "created": 1795032539,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "2287027638",
-   "streamer": "clix",
-   "title": "clix play lucia",
-   "views": 61,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/clix/clip/AgitatedEnticingHedgehogSmoocherZ-rnkr80SphCzxwkz8",
-   "created": 1795000290,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -3220,18 +3753,6 @@
    "is_gta6": false
   },
   {
-   "id": "3413345743",
-   "streamer": "xqc",
-   "title": "3",
-   "views": 58,
-   "duration": 29.0,
-   "url": "https://www.twitch.tv/xqc/clip/SuccessfulIntelligentPepperFeelsBadMan-xPoMz-zU3os4lAbV",
-   "created": 1795000189,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "1150831635",
    "streamer": "xqc",
    "title": "game on pc",
@@ -3244,6 +3765,18 @@
    "is_gta6": false
   },
   {
+   "id": "3413345743",
+   "streamer": "xqc",
+   "title": "3",
+   "views": 58,
+   "duration": 29.0,
+   "url": "https://www.twitch.tv/xqc/clip/SuccessfulIntelligentPepperFeelsBadMan-xPoMz-zU3os4lAbV",
+   "created": 1795000189,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "3877044409",
    "streamer": "clix",
    "title": "\ud83d\udea8 FIRST PERSON TO PLAY GTA \ud83d\udea8 EARLY ACCESS \ud83d\udea8 24/7 MARATHON \ud83d\udea8 PS5 GIVEAWAYS",
@@ -3251,18 +3784,6 @@
    "duration": 30.0,
    "url": "https://www.twitch.tv/clix/clip/CrowdedOddJellyfishOSsloth-VGwdr6iEdmeFnquM",
    "created": 1794999162,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "1544005686",
-   "streamer": "caseoh_",
-   "title": "lol",
-   "views": 58,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/SpicyTentativeChimpanzeeTheRinger-HwZLgasKhuJbGYv_",
-   "created": 1794976568,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -3328,30 +3849,6 @@
    "is_gta6": false
   },
   {
-   "id": "2134633554",
-   "streamer": "jynxzi",
-   "title": "Jynxzi won Content Creator of the Year",
-   "views": 54,
-   "duration": 43.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/EnticingAgitatedPlumRiPepperonis-TKcg7Or2tiuzNyTj",
-   "created": 1794970209,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "2083031805",
-   "streamer": "caseoh_",
-   "title": "he's about to commit what?",
-   "views": 54,
-   "duration": 32.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/PunchyGorgeousBasenjiTBTacoRight-ZZiCGwH7L8YOtpRb",
-   "created": 1794976998,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "2260286754",
    "streamer": "darkviperau",
    "title": "GTA 6 ALLOWS YOU TO SWITCH TO KILOMETERS PER HOUR",
@@ -3371,18 +3868,6 @@
    "duration": 21.0,
    "url": "https://www.twitch.tv/xqc/clip/BlindingConsideratePlumImGlitch-jsLB37NXBzSYCtQ7",
    "created": 1795030905,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "2446021576",
-   "streamer": "caseoh_",
-   "title": "case",
-   "views": 53,
-   "duration": 59.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/WildDelightfulFalconTinyFace-JqUQyTIQHCPmFdQM",
-   "created": 1795035045,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -3415,7 +3900,7 @@
    "id": "921589417",
    "streamer": "clix",
    "title": "First to fly in GTA VI",
-   "views": 50,
+   "views": 51,
    "duration": 21.0,
    "url": "https://www.twitch.tv/clix/clip/EnchantingSpotlessMarrowYouDontSay-fwi73X9OU-VG2SpX",
    "created": 1795002081,
@@ -3431,18 +3916,6 @@
    "duration": 24.0,
    "url": "https://www.twitch.tv/darkviperau/clip/CorrectPluckyPoxPanicBasket--IOTE2Nv2bGXq1i_",
    "created": 1795044511,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "2772699535",
-   "streamer": "jynxzi",
-   "title": "Mandy",
-   "views": 48,
-   "duration": 16.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/DarlingBumblingCougarPunchTrees-_p5NYk3pOi5zpSp3",
-   "created": 1795034947,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -3479,30 +3952,6 @@
    "duration": 5.0,
    "url": "https://www.twitch.tv/darkviperau/clip/SavageDependableCarabeefHassanChop-Vi7UWeDpLK3IiOPe",
    "created": 1794999192,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "1172179545",
-   "streamer": "caseoh_",
-   "title": "HEY SUZIE",
-   "views": 46,
-   "duration": 26.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/UnsightlyFaithfulCarrotOSsloth-wXCzorfvWp3VH2YW",
-   "created": 1794981267,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "1536371142",
-   "streamer": "caseoh_",
-   "title": "BIG DAWG",
-   "views": 46,
-   "duration": 15.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/TrappedNurturingTaroPastaThat-qzjAh-G2z2phxHyJ",
-   "created": 1794978165,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -3556,18 +4005,6 @@
    "is_gta6": false
   },
   {
-   "id": "3341074466",
-   "streamer": "clix",
-   "title": "\ud83d\udea8 FIRST PERSON TO PLAY GTA \ud83d\udea8 BILLY JONES \ud83d\udea8 24/7 MARATHON \ud83d\udea8 PS5 GIVEAWAYS",
-   "views": 43,
-   "duration": 55.0,
-   "url": "https://www.twitch.tv/clix/clip/MuddyFamousHabaneroDAESuppy-uLoFP9fCoQPD4Rou",
-   "created": 1795018201,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "3592607560",
    "streamer": "clix",
    "title": "Shoots a disabled",
@@ -3580,13 +4017,13 @@
    "is_gta6": false
   },
   {
-   "id": "2088766263",
-   "streamer": "jynxzi",
-   "title": "RAGEBAITING",
-   "views": 42,
-   "duration": 53.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/DrabPeppyPistachioSuperVinlin-H-WZSmQHtp8qiKVT",
-   "created": 1795027854,
+   "id": "3341074466",
+   "streamer": "clix",
+   "title": "\ud83d\udea8 FIRST PERSON TO PLAY GTA \ud83d\udea8 BILLY JONES \ud83d\udea8 24/7 MARATHON \ud83d\udea8 PS5 GIVEAWAYS",
+   "views": 43,
+   "duration": 55.0,
+   "url": "https://www.twitch.tv/clix/clip/MuddyFamousHabaneroDAESuppy-uLoFP9fCoQPD4Rou",
+   "created": 1795018201,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -3628,42 +4065,6 @@
    "is_gta6": false
   },
   {
-   "id": "3885169238",
-   "streamer": "caseoh_",
-   "title": "yoooo gta 6",
-   "views": 40,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/EnergeticHonorableAardvarkPeoplesChamp-a1dWTPDhMdeMnHmG",
-   "created": 1795031726,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "852915712",
-   "streamer": "caseoh_",
-   "title": "singing",
-   "views": 40,
-   "duration": 24.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/PhilanthropicPeppySwordKappaClaus-kCGcOvlHNNH_DVwm",
-   "created": 1794983448,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "4156738983",
-   "streamer": "jynxzi",
-   "title": "alligator slayer",
-   "views": 39,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/ExuberantFaithfulLyrebirdPanicBasket-Ksbbx6NCFGgDUE-6",
-   "created": 1795031890,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "522065375",
    "streamer": "clix",
    "title": "crashout",
@@ -3676,18 +4077,6 @@
    "is_gta6": false
   },
   {
-   "id": "4254142148",
-   "streamer": "caseoh_",
-   "title": "reaction",
-   "views": 39,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/TriumphantSoftChickenHeyGirl-zTmyNZaqrxtXgnXs",
-   "created": 1794971586,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "2731881399",
    "streamer": "typicalgamer",
    "title": "Before gta",
@@ -3695,42 +4084,6 @@
    "duration": 30.0,
    "url": "https://www.twitch.tv/typicalgamer/clip/FitStormyRabbitBudBlast-Sokvv0RKfxDGk1lk",
    "created": 1794999519,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "1397864577",
-   "streamer": "jynxzi",
-   "title": "#GTA6 #Got shocked And Immediately Apologize! \ud83d\ude4f\ud83c\udffc",
-   "views": 37,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/AlluringIntelligentShieldKappa-RL3NLfJDaiFDkEVV",
-   "created": 1795038955,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "4109337415",
-   "streamer": "jynxzi",
-   "title": "[679/730] \ud83c\udfd6\ufe0f  FIRST TIME PLAYING GTA 6 \ud83c\udfd6\ufe0f  MY HOME STATE OF FLORIDA \ud83c\udfd6\ufe0f",
-   "views": 37,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/TalentedGlutenFreeManateeBabyRage-U84KDl8GIcfufbkd",
-   "created": 1795028454,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "1755633640",
-   "streamer": "jynxzi",
-   "title": "caught",
-   "views": 37,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/ColdbloodedShortSamosaPJSalt-7t5dYkb1woSDX-cu",
-   "created": 1795028781,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -3760,18 +4113,6 @@
    "is_gta6": false
   },
   {
-   "id": "4227069139",
-   "streamer": "caseoh_",
-   "title": "new car",
-   "views": 37,
-   "duration": 34.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/AdventurousTacitAubergineTakeNRG-leiBNhemtt6gecDM",
-   "created": 1795036002,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "620268061",
    "streamer": "typicalgamer",
    "title": "tg is loosing it",
@@ -3779,18 +4120,6 @@
    "duration": 60.0,
    "url": "https://www.twitch.tv/typicalgamer/clip/ExuberantCaringKathyWholeWheat-vEBUUNxAXNNbQqDW",
    "created": 1794967031,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "2318902391",
-   "streamer": "jynxzi",
-   "title": "lol",
-   "views": 35,
-   "duration": 40.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/ClumsyRoughAnteaterPlanking-8CI7V2DiIoVUSsE1",
-   "created": 1794966482,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -3820,13 +4149,13 @@
    "is_gta6": false
   },
   {
-   "id": "1801882384",
+   "id": "4267514925",
    "streamer": "clix",
-   "title": "yo pause",
+   "title": "n",
    "views": 35,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/clix/clip/MuddyGloriousScallionDancingBanana-ZO3oKBdAz6TorboA",
-   "created": 1795003249,
+   "url": "https://www.twitch.tv/clix/clip/UgliestProtectiveFalconFrankerZ-u_KvHxbJrQtytSz7",
+   "created": 1795006160,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -3844,25 +4173,13 @@
    "is_gta6": false
   },
   {
-   "id": "4267514925",
+   "id": "1801882384",
    "streamer": "clix",
-   "title": "n",
+   "title": "yo pause",
    "views": 35,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/clix/clip/UgliestProtectiveFalconFrankerZ-u_KvHxbJrQtytSz7",
-   "created": 1795006160,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "3756375175",
-   "streamer": "clix",
-   "title": "WASTED",
-   "views": 35,
-   "duration": 19.0,
-   "url": "https://www.twitch.tv/clix/clip/CautiousCogentEyeballRiPepperonis-6lQe_aMpvDwFKrC0",
-   "created": 1795001984,
+   "url": "https://www.twitch.tv/clix/clip/MuddyGloriousScallionDancingBanana-ZO3oKBdAz6TorboA",
+   "created": 1795003249,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -3880,13 +4197,13 @@
    "is_gta6": false
   },
   {
-   "id": "3932045643",
-   "streamer": "caseoh_",
-   "title": "lol",
+   "id": "3756375175",
+   "streamer": "clix",
+   "title": "WASTED",
    "views": 35,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/CuriousSmoothPineappleDoubleRainbow-9CJ8qiYlfa8JGLpG",
-   "created": 1794977038,
+   "duration": 19.0,
+   "url": "https://www.twitch.tv/clix/clip/CautiousCogentEyeballRiPepperonis-6lQe_aMpvDwFKrC0",
+   "created": 1795001984,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -3904,49 +4221,13 @@
    "is_gta6": false
   },
   {
-   "id": "95114856",
-   "streamer": "caseoh_",
-   "title": "Take off",
+   "id": "555610752",
+   "streamer": "clix",
+   "title": "dfgh",
    "views": 34,
-   "duration": 29.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/HyperCorrectInternBCWarrior-LVMwqiYxVkw4tT2j",
-   "created": 1795033734,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "3338857926",
-   "streamer": "jynxzi",
-   "title": "well yeah",
-   "views": 33,
-   "duration": 22.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/SneakyLazyPoultryHeyGuys-uTsvs60zXqOaw_5a",
-   "created": 1795035847,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "2580421550",
-   "streamer": "jynxzi",
-   "title": "Jynxi recreated his meme\ud83d\ude02",
-   "views": 33,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/BelovedOpenFishDatBoi-ff_jULmUGGVE1twy",
-   "created": 1795028430,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "56915647",
-   "streamer": "jynxzi",
-   "title": "jynx",
-   "views": 33,
-   "duration": 33.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/ThoughtfulRockyOysterDoubleRainbow-YNtHUSxW8tTQKi-R",
-   "created": 1794966132,
+   "url": "https://www.twitch.tv/clix/clip/TiredTiredBorkRiPepperonis-wY1MNbsav0BvFChR",
+   "created": 1794999654,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -3976,18 +4257,6 @@
    "is_gta6": false
   },
   {
-   "id": "555610752",
-   "streamer": "clix",
-   "title": "dfgh",
-   "views": 33,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/clix/clip/TiredTiredBorkRiPepperonis-wY1MNbsav0BvFChR",
-   "created": 1794999654,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "2293059813",
    "streamer": "clix",
    "title": "clix in gta6 club",
@@ -3995,18 +4264,6 @@
    "duration": 30.0,
    "url": "https://www.twitch.tv/clix/clip/KathishCloudyWatermelonStoneLightning-JHYXoff6D3szLMSA",
    "created": 1795005897,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "2790161930",
-   "streamer": "caseoh_",
-   "title": "oh",
-   "views": 33,
-   "duration": 33.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/PoisedFriendlyOryxNinjaGrumpy-kV0Obh79EsrEOYLg",
-   "created": 1795037389,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -4048,18 +4305,6 @@
    "is_gta6": false
   },
   {
-   "id": "1810865511",
-   "streamer": "jynxzi",
-   "title": "bro",
-   "views": 31,
-   "duration": 12.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/CoweringTallCheeseCurseLit-Y9tiSqzg8fNr0-DO",
-   "created": 1795036803,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "1469698232",
    "streamer": "clix",
    "title": "bro talking with girls in bar",
@@ -4067,18 +4312,6 @@
    "duration": 55.0,
    "url": "https://www.twitch.tv/clix/clip/RelievedSwissTurnipCharlietheUnicorn-35adcGySW1SyNW0i",
    "created": 1795006520,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "2220704323",
-   "streamer": "jynxzi",
-   "title": "Bug",
-   "views": 30,
-   "duration": 50.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/CaringCredulousHippoMingLee-bYXFSKuYrCSEQnUk",
-   "created": 1795032510,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -4108,30 +4341,6 @@
    "is_gta6": false
   },
   {
-   "id": "3061749207",
-   "streamer": "caseoh_",
-   "title": "lOL",
-   "views": 30,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/ScrumptiousSmellyPresidentPicoMause-fUuNTsM1EeGR4S17",
-   "created": 1794971364,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "2600078398",
-   "streamer": "caseoh_",
-   "title": "dolores beat me to death",
-   "views": 30,
-   "duration": 44.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/DependableWildJuiceCoolCat-bvLiry6UvxH3Dhe0",
-   "created": 1795034787,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "1207942591",
    "streamer": "typicalgamer",
    "title": "smh",
@@ -4139,18 +4348,6 @@
    "duration": 30.0,
    "url": "https://www.twitch.tv/typicalgamer/clip/RockyLuckyAardvarkPeoplesChamp-1tFImcULVgtb_Ssw",
    "created": 1794998658,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "2609030152",
-   "streamer": "jynxzi",
-   "title": "Jynxzi robbed the gamer of the year",
-   "views": 29,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/CrepuscularAlertPandaOhMyDog-ZAQbcts1xlD7A295",
-   "created": 1795030414,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -4192,25 +4389,13 @@
    "is_gta6": false
   },
   {
-   "id": "72478903",
-   "streamer": "jynxzi",
-   "title": "lmfao",
-   "views": 28,
-   "duration": 15.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/AbrasiveWiseClipsmomTBCheesePull-40_A7mKpovbvQVsj",
-   "created": 1795029176,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "3190076541",
-   "streamer": "jynxzi",
-   "title": "Lucia",
+   "id": "3333109920",
+   "streamer": "darkviperau",
+   "title": "[PS5 Pro] [HOURLY GIVEAWAYS] The BEST GTA VI LAUNCH Of All Time (New Zealand Start Time)",
    "views": 27,
-   "duration": 18.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/PiercingDoubtfulAsparagusCoolStoryBob-COMQJIJGRyfvLl5X",
-   "created": 1795034786,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/darkviperau/clip/LuckySpeedyInternRitzMitz-qb4gOkKFkt-lzW5j",
+   "created": 1795015487,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -4228,30 +4413,6 @@
    "is_gta6": false
   },
   {
-   "id": "3333109920",
-   "streamer": "darkviperau",
-   "title": "[PS5 Pro] [HOURLY GIVEAWAYS] The BEST GTA VI LAUNCH Of All Time (New Zealand Start Time)",
-   "views": 27,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/darkviperau/clip/LuckySpeedyInternRitzMitz-qb4gOkKFkt-lzW5j",
-   "created": 1795015487,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "2497633415",
-   "streamer": "clix",
-   "title": "ghm",
-   "views": 27,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/clix/clip/WildBoldStarMcaT-wYPPYAYMsSCSs3B7",
-   "created": 1795030761,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "2292815894",
    "streamer": "clix",
    "title": "clix mission igen",
@@ -4264,25 +4425,13 @@
    "is_gta6": false
   },
   {
-   "id": "2039657231",
-   "streamer": "caseoh_",
-   "title": "LMAO",
-   "views": 27,
-   "duration": 14.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/SuccessfulAltruisticQueleaCoolStoryBob--uFHyjOMBZrg5MfG",
-   "created": 1794972880,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "1095063062",
-   "streamer": "caseoh_",
-   "title": "buff case",
+   "id": "2497633415",
+   "streamer": "clix",
+   "title": "ghm",
    "views": 27,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/AmusedApatheticSwallowLeeroyJenkins-zDPgSlVphNhm7BHD",
-   "created": 1795031041,
+   "url": "https://www.twitch.tv/clix/clip/WildBoldStarMcaT-wYPPYAYMsSCSs3B7",
+   "created": 1795030761,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -4312,126 +4461,6 @@
    "is_gta6": false
   },
   {
-   "id": "1690407173",
-   "streamer": "caseoh_",
-   "title": "lenny doing lenny things",
-   "views": 26,
-   "duration": 23.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/SmoothLovelyCaterpillarBloodTrail-W9KSPt56uOt-Gce-",
-   "created": 1794967536,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "1819901576",
-   "streamer": "jynxzi",
-   "title": "why everybody dont like donny",
-   "views": 25,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/RudeSassyMelonChocolateRain-tDLMIkdVvGzL4IGz",
-   "created": 1795030258,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "1024609773",
-   "streamer": "jynxzi",
-   "title": "jynxi trying to climb high but ended up falling",
-   "views": 25,
-   "duration": 42.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/GrossHardChimpanzeeKreygasm-oMJzG-Kd_rjuI-u4",
-   "created": 1795037718,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "1624613394",
-   "streamer": "caseoh_",
-   "title": "WORST CRIMINAL IN EXISTENCE",
-   "views": 25,
-   "duration": 59.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/HonorableGentleSushiCorgiDerp-KJAvxeTENqgRdxNW",
-   "created": 1795039361,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "218090152",
-   "streamer": "caseoh_",
-   "title": "Crashout",
-   "views": 25,
-   "duration": 20.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/HungryProudTermitePermaSmug-Zkfy0FlYazS69mQ2",
-   "created": 1794976611,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "387292418",
-   "streamer": "caseoh_",
-   "title": "CHAT CHILL",
-   "views": 25,
-   "duration": 40.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/PerfectOddMushroomStinkyCheese-jeRY1zBhR0zyM8ce",
-   "created": 1795031277,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "3558652442",
-   "streamer": "jynxzi",
-   "title": "goatt",
-   "views": 24,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/VenomousDifficultFlyUnSane-rp8k6jt-gT3WZe05",
-   "created": 1795036514,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "1442993433",
-   "streamer": "jynxzi",
-   "title": "Jackass donnie",
-   "views": 24,
-   "duration": 28.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/LightAgilePheasantFunRun-sxmIP34AYWAv3NAz",
-   "created": 1795030187,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "1479884660",
-   "streamer": "caseoh_",
-   "title": "Case sing Coffee head song",
-   "views": 24,
-   "duration": 11.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/FilthyColorfulWrenCclamChamp-fd6oQC9ZVqBb2sJG",
-   "created": 1794974011,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "3672825546",
-   "streamer": "caseoh_",
-   "title": "Wii Stimming",
-   "views": 24,
-   "duration": 26.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/FilthySucculentFriseeKappaRoss-A8kQmsxz0mDIw6Da",
-   "created": 1794982861,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "3074320315",
    "streamer": "typicalgamer",
    "title": "crashout",
@@ -4439,78 +4468,6 @@
    "duration": 30.0,
    "url": "https://www.twitch.tv/typicalgamer/clip/LovelySmokyHabaneroPraiseIt-8bQVm0XnArdXrA5O",
    "created": 1794974820,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "920816186",
-   "streamer": "jynxzi",
-   "title": "jynx peeping weiners",
-   "views": 23,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/RoundSpineySlothPanicBasket-irIbV9FWuIyKsLD9",
-   "created": 1795048423,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "3519052603",
-   "streamer": "caseoh_",
-   "title": "HIT AND RUN",
-   "views": 23,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/LachrymoseCrowdedTriangleCharlietheUnicorn-_xemTVaKYMEIrDDR",
-   "created": 1795033082,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "3794322523",
-   "streamer": "caseoh_",
-   "title": "rage",
-   "views": 23,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/HonorableLaconicPeppermintKAPOW-Ry1DfGbrgnUVlnlw",
-   "created": 1794976585,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "929907100",
-   "streamer": "caseoh_",
-   "title": "jumpscare",
-   "views": 23,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/CuriousCourteousCobraANELE-5qiGERjiu56FBntm",
-   "created": 1794984780,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "2746650676",
-   "streamer": "caseoh_",
-   "title": "caseohmom",
-   "views": 23,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/BusyStupidCoyoteMoreCowbell-adgqzByhZeEirUBi",
-   "created": 1795031576,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "1293516044",
-   "streamer": "typicalgamer",
-   "title": "\ud83d\udd34 GTA 6 MARATHON! (EARLY ACCESS, I'M IN NEW ZEALAND) \ud83d\udd34 TOKEN HUNT PAUSED \ud83d\udd34",
-   "views": 22,
-   "duration": 15.0,
-   "url": "https://www.twitch.tv/typicalgamer/clip/VastUnusualHerringYouWHY-x3meWwNTb20cPwId",
-   "created": 1794986411,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -4528,49 +4485,13 @@
    "is_gta6": false
   },
   {
-   "id": "3291660417",
-   "streamer": "jynxzi",
-   "title": "Jennifer gets absuive",
+   "id": "1293516044",
+   "streamer": "typicalgamer",
+   "title": "\ud83d\udd34 GTA 6 MARATHON! (EARLY ACCESS, I'M IN NEW ZEALAND) \ud83d\udd34 TOKEN HUNT PAUSED \ud83d\udd34",
    "views": 22,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/SmoothTriumphantSheepTakeNRG-pAI78vVq0MHFMtF8",
-   "created": 1795035871,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "2862364258",
-   "streamer": "caseoh_",
-   "title": ".",
-   "views": 22,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/EnjoyableStormyPlumRedCoat-Ha4H5Z4u9dtB23QD",
-   "created": 1794977002,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "1142574642",
-   "streamer": "caseoh_",
-   "title": "missed it",
-   "views": 22,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/NeighborlyDoubtfulCodSMOrc-uUu6lFaGJaJsMkeu",
-   "created": 1795034854,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "343220766",
-   "streamer": "caseoh_",
-   "title": "game within game",
-   "views": 22,
-   "duration": 37.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/CarelessBlitheWatercressStinkyCheese-6ppHnmqr_nyyfrPu",
-   "created": 1795044650,
+   "duration": 15.0,
+   "url": "https://www.twitch.tv/typicalgamer/clip/VastUnusualHerringYouWHY-x3meWwNTb20cPwId",
+   "created": 1794986411,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -4583,66 +4504,6 @@
    "duration": 33.0,
    "url": "https://www.twitch.tv/typicalgamer/clip/ObliviousBreakablePelicanM4xHeh-ewRRfszfpFnD4yJM",
    "created": 1795004977,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "2223545683",
-   "streamer": "jynxzi",
-   "title": "jyxnzi",
-   "views": 21,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/HonestSpoopyBarracudaBloodTrail-C7KJz_EpSNeSIAYc",
-   "created": 1795028336,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "2093252251",
-   "streamer": "jynxzi",
-   "title": "Quick snot rocket",
-   "views": 21,
-   "duration": 7.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/AlluringTangentialEagleBabyRage-Obip17AoytQWrmjH",
-   "created": 1795029876,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "4119568782",
-   "streamer": "jynxzi",
-   "title": "meme",
-   "views": 21,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/KnottyFancyAlpacaWutFace-q_Y15BAl0Us8RxgZ",
-   "created": 1795038752,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "3525619493",
-   "streamer": "jynxzi",
-   "title": "Jynxzi - GTA VI",
-   "views": 21,
-   "duration": 29.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/BlindingAgitatedCucumberThunBeast-7dJczwIkBxoCZg1u",
-   "created": 1795035227,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "3368124586",
-   "streamer": "jynxzi",
-   "title": "Jynxzi got too excited",
-   "views": 21,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/HardOutstandingGerbilLeeroyJenkins-zwc4xo6G16Pd3idE",
-   "created": 1795034802,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -4672,42 +4533,6 @@
    "is_gta6": false
   },
   {
-   "id": "632975967",
-   "streamer": "caseoh_",
-   "title": "THE DISRESPECT \ud83d\ude2d\ud83d\ude2d",
-   "views": 21,
-   "duration": 33.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/EasyTameCobraWOOP-bVlEGr4W-_HQK9fM",
-   "created": 1795035703,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "1409949442",
-   "streamer": "caseoh_",
-   "title": "hgh",
-   "views": 21,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/PowerfulSavageGooseFutureMan-dwF8JUadgHxvtH4x",
-   "created": 1795033115,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "3060921949",
-   "streamer": "caseoh_",
-   "title": "ip adress\ud83d\ude2d",
-   "views": 21,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/DarkDullChinchillaOSsloth-X3pfMxhufbwP2Ato",
-   "created": 1794983195,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "326577115",
    "streamer": "typicalgamer",
    "title": "shooting basket ball for the first time",
@@ -4715,18 +4540,6 @@
    "duration": 28.0,
    "url": "https://www.twitch.tv/typicalgamer/clip/InquisitiveDependableLEDBCouch-OVXmgb2I0kMOu9ME",
    "created": 1795003081,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "3599810483",
-   "streamer": "jynxzi",
-   "title": "stare",
-   "views": 20,
-   "duration": 18.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/InnocentEphemeralDaikonCharlietheUnicorn-rznbIOiZBzRZ22J8",
-   "created": 1795036940,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -4756,37 +4569,13 @@
    "is_gta6": false
   },
   {
-   "id": "773457377",
-   "streamer": "jynxzi",
-   "title": "real reason to play gta",
-   "views": 19,
-   "duration": 28.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/ProtectiveCovertZebraLitFam-Eo9quFWThQLrnrlV",
-   "created": 1795030545,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "2316839206",
-   "streamer": "caseoh_",
-   "title": "NYROOOOOOOOOOM!-",
-   "views": 19,
-   "duration": 22.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/ThirstySpoopyCocoaDancingBaby-uIvBnItDB_X2gRRq",
-   "created": 1794979237,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "551442329",
-   "streamer": "caseoh_",
-   "title": "cheeks",
-   "views": 19,
-   "duration": 29.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/StrangeSuperTardigradeChocolateRain-ZRMD688xayHxC4Ej",
-   "created": 1795031477,
+   "id": "2028980219",
+   "streamer": "typicalgamer",
+   "title": "dingerie",
+   "views": 18,
+   "duration": 37.0,
+   "url": "https://www.twitch.tv/typicalgamer/clip/ExcitedHeadstrongAlligatorSMOrc-xRy7Hy-zWr995WpT",
+   "created": 1795007590,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -4804,18 +4593,6 @@
    "is_gta6": false
   },
   {
-   "id": "2028980219",
-   "streamer": "typicalgamer",
-   "title": "dingerie",
-   "views": 18,
-   "duration": 37.0,
-   "url": "https://www.twitch.tv/typicalgamer/clip/ExcitedHeadstrongAlligatorSMOrc-xRy7Hy-zWr995WpT",
-   "created": 1795007590,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "3875826106",
    "streamer": "typicalgamer",
    "title": "\u0433\u0442\u0430\u0448\u043a\u0430",
@@ -4823,90 +4600,6 @@
    "duration": 60.0,
    "url": "https://www.twitch.tv/typicalgamer/clip/DoubtfulPatientRingANELE-VMSQ8ilHqX8lURw5",
    "created": 1795004909,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "441920933",
-   "streamer": "jynxzi",
-   "title": "jynxi recreates his viral meme",
-   "views": 18,
-   "duration": 20.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/MotionlessFitHerbsSoBayed-CqA96JUVLJtQh8KD",
-   "created": 1795033983,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "2462855442",
-   "streamer": "jynxzi",
-   "title": "Snot Rocket by Kynxzi",
-   "views": 18,
-   "duration": 26.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/ObeseBlushingNostrilMau5-074-Ig09xJyc0EcJ",
-   "created": 1795028590,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "3701109587",
-   "streamer": "caseoh_",
-   "title": "NO WARNING WHATSOEVER",
-   "views": 18,
-   "duration": 13.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/MuddyHumbleClintPMSTwin-GOQV69R4TjYgMyB9",
-   "created": 1795038112,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "1785242410",
-   "streamer": "caseoh_",
-   "title": "laugh",
-   "views": 18,
-   "duration": 15.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/DependableGlutenFreeHorseradishStoneLightning-9wi6ktbEfC2fuyN8",
-   "created": 1795033254,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "226156675",
-   "streamer": "caseoh_",
-   "title": "Yeahh Suzyyy",
-   "views": 18,
-   "duration": 7.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/GenerousAffluentToadPupper-Zmxcr0slXcYWDCSr",
-   "created": 1794981227,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "2275213514",
-   "streamer": "caseoh_",
-   "title": "*caseoh had enough\ud83e\udd27\ud83d\ude2d",
-   "views": 18,
-   "duration": 23.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/HardProtectiveToadKappaRoss-KlLtF-Trfdh2DwuC",
-   "created": 1794976253,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "2042895581",
-   "streamer": "caseoh_",
-   "title": "chicken side eye",
-   "views": 18,
-   "duration": 12.0,
-   "url": "https://www.twitch.tv/caseoh_/clip/ChillyRacyZucchiniDansGame-xKY3EolEtnsu8UIq",
-   "created": 1795022737,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -4936,49 +4629,13 @@
    "is_gta6": false
   },
   {
-   "id": "3484477750",
-   "streamer": "jynxzi",
-   "title": "jynxzi reacts to lacy getting pepper sprayed",
-   "views": 17,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/EncouragingTangibleBillRalpherZ-C3wQIas6XpaRUu7b",
-   "created": 1795044342,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "3109181199",
-   "streamer": "jynxzi",
-   "title": "omg",
-   "views": 17,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/LightRelievedNarwhalPrimeMe-1HE3_pcBQABaRCWP",
-   "created": 1795031791,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "468356567",
-   "streamer": "jynxzi",
-   "title": "jynxi bottom frag",
-   "views": 17,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/ShinyBelovedHabaneroPeteZarollTie-ZWx1Ezn0BBL9j8Lz",
-   "created": 1794963688,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "2405680232",
+   "id": "2739092608",
    "streamer": "darkviperau",
-   "title": "Damn",
+   "title": "funky bug",
    "views": 17,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/darkviperau/clip/HonestStormyHerringVoteYea-fRUexEYef1iasqiY",
-   "created": 1795036255,
+   "duration": 26.0,
+   "url": "https://www.twitch.tv/darkviperau/clip/InventiveGrossBorkBrokeBack-MZ9mDtKTl3ODzcsg",
+   "created": 1795023302,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -4996,13 +4653,13 @@
    "is_gta6": false
   },
   {
-   "id": "2739092608",
+   "id": "2405680232",
    "streamer": "darkviperau",
-   "title": "funky bug",
+   "title": "Damn",
    "views": 17,
-   "duration": 26.0,
-   "url": "https://www.twitch.tv/darkviperau/clip/InventiveGrossBorkBrokeBack-MZ9mDtKTl3ODzcsg",
-   "created": 1795023302,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/darkviperau/clip/HonestStormyHerringVoteYea-fRUexEYef1iasqiY",
+   "created": 1795036255,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -5032,37 +4689,13 @@
    "is_gta6": false
   },
   {
-   "id": "1052485904",
-   "streamer": "jynxzi",
-   "title": "lmao",
-   "views": 16,
-   "duration": 36.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/SmoggyFaintWalrusBIRB-t4jSRxXymHTXyVSn",
-   "created": 1795034626,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "1431367939",
-   "streamer": "jynxzi",
-   "title": "jynzxi fell out of sky",
-   "views": 16,
+   "id": "2730636668",
+   "streamer": "typicalgamer",
+   "title": "\ud83d\udd34 GTA 6 MARATHON! (EARLY ACCESS, I'M IN NEW ZEALAND) \ud83d\udd34 TOKEN HUNT PAUSED \ud83d\udd34",
+   "views": 15,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/GenerousLazyFerretCurseLit-GhHkFwBhxz2m6eWu",
-   "created": 1795038512,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "3863447788",
-   "streamer": "jynxzi",
-   "title": "you not a real flordia jit",
-   "views": 16,
-   "duration": 59.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/OptimisticBloodyMeerkatPastaThat-aSZrOLKytMISAA26",
-   "created": 1795032600,
+   "url": "https://www.twitch.tv/typicalgamer/clip/TriumphantSmellyPieKeyboardCat--j_xfGZBrmv0REUt",
+   "created": 1794999636,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -5080,49 +4713,13 @@
    "is_gta6": false
   },
   {
-   "id": "2730636668",
+   "id": "1016992713",
    "streamer": "typicalgamer",
-   "title": "\ud83d\udd34 GTA 6 MARATHON! (EARLY ACCESS, I'M IN NEW ZEALAND) \ud83d\udd34 TOKEN HUNT PAUSED \ud83d\udd34",
-   "views": 15,
+   "title": "\ud83d\udd34 PIRATE TOKEN MARATHON! FIND IT = $7000 GIVEAWAY! \ud83d\udd34 !method !crashout",
+   "views": 14,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/typicalgamer/clip/TriumphantSmellyPieKeyboardCat--j_xfGZBrmv0REUt",
-   "created": 1794999636,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "3052418325",
-   "streamer": "jynxzi",
-   "title": "Holy aim",
-   "views": 15,
-   "duration": 18.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/NiceFunRaccoonVoteYea-IXSclP9h5eWSu-7z",
-   "created": 1794964134,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "2842288198",
-   "streamer": "jynxzi",
-   "title": "2026 gamer of the year",
-   "views": 15,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/LuckySingleTrayThunBeast-zqS9QX0xFnJd0lEW",
-   "created": 1795030055,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "1988845356",
-   "streamer": "jynxzi",
-   "title": "shit",
-   "views": 15,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/OriginalRelentlessHippoTinyFace-NN0D6pk1EPeM9kHv",
-   "created": 1795028333,
+   "url": "https://www.twitch.tv/typicalgamer/clip/MildRoundPlumTriHard-mH8vEvc5KguRmncV",
+   "created": 1794966095,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -5135,30 +4732,6 @@
    "duration": 30.0,
    "url": "https://www.twitch.tv/typicalgamer/clip/SoftEvilDolphinTheThing-MSp9dtnjcovp86yv",
    "created": 1795002409,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "266794329",
-   "streamer": "typicalgamer",
-   "title": "th looks at the map",
-   "views": 14,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/typicalgamer/clip/ShinyCarelessKaleDoggo-GYW4piS84J5HliLk",
-   "created": 1795002795,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "1016992713",
-   "streamer": "typicalgamer",
-   "title": "\ud83d\udd34 PIRATE TOKEN MARATHON! FIND IT = $7000 GIVEAWAY! \ud83d\udd34 !method !crashout",
-   "views": 14,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/typicalgamer/clip/MildRoundPlumTriHard-mH8vEvc5KguRmncV",
-   "created": 1794966095,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -5176,37 +4749,13 @@
    "is_gta6": false
   },
   {
-   "id": "878500815",
+   "id": "1240706955",
    "streamer": "typicalgamer",
-   "title": "Tg trys out new auto drive feature",
-   "views": 14,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/typicalgamer/clip/SoftEvilDolphinTheThing-MSp9dtnjcovp86yv",
-   "created": 1795002409,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "558585003",
-   "streamer": "jynxzi",
-   "title": "Jynxzi almost caught by cops",
+   "title": "\u0433\u0442\u0430",
    "views": 14,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/PeppyTardyParrotOpieOP-cfzcm1VIrKXamwHo",
-   "created": 1795028673,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "1925706462",
-   "streamer": "jynxzi",
-   "title": "Jynxzi driving in #GTA6 #grandtheftauto6 #jynxzi #twitch #clips #lucia",
-   "views": 14,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/SpinelessOutstandingOysterAMPTropPunch-IBulxLYKHDsYzdLx",
-   "created": 1795028823,
+   "url": "https://www.twitch.tv/typicalgamer/clip/BrainyGenerousLapwingFunRun-LYwXqfh29DJmiDTK",
+   "created": 1795008903,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -5224,13 +4773,13 @@
    "is_gta6": false
   },
   {
-   "id": "1716003126",
+   "id": "1636780417",
    "streamer": "typicalgamer",
-   "title": "flying  a plane in GTA 6",
+   "title": "shot down ny fighter jets",
    "views": 13,
-   "duration": 52.0,
-   "url": "https://www.twitch.tv/typicalgamer/clip/CleverAgreeableAardvarkVoteNay-rpXdoMVF_pt01CrJ",
-   "created": 1795001814,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/typicalgamer/clip/TolerantComfortableManateeMingLee-nBYw-96HL1cA-rEA",
+   "created": 1795007549,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -5248,18 +4797,6 @@
    "is_gta6": false
   },
   {
-   "id": "1636780417",
-   "streamer": "typicalgamer",
-   "title": "shot down ny fighter jets",
-   "views": 13,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/typicalgamer/clip/TolerantComfortableManateeMingLee-nBYw-96HL1cA-rEA",
-   "created": 1795007549,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "2427996632",
    "streamer": "typicalgamer",
    "title": "thepolice is not playing",
@@ -5272,25 +4809,13 @@
    "is_gta6": false
   },
   {
-   "id": "3060990660",
-   "streamer": "jynxzi",
-   "title": "lol",
+   "id": "1716003126",
+   "streamer": "typicalgamer",
+   "title": "flying  a plane in GTA 6",
    "views": 13,
-   "duration": 48.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/InterestingCrispyMomGrammarKing-rmxWPOdbmtLXg4no",
-   "created": 1794966655,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "2804050042",
-   "streamer": "jynxzi",
-   "title": "jynxzi murders women",
-   "views": 13,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/jynxzi/clip/RudeBashfulEggplantWTRuck-Z7Y7PY_lrNIDDLo6",
-   "created": 1795038466,
+   "duration": 52.0,
+   "url": "https://www.twitch.tv/typicalgamer/clip/CleverAgreeableAardvarkVoteNay-rpXdoMVF_pt01CrJ",
+   "created": 1795001814,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -5308,18 +4833,6 @@
    "is_gta6": false
   },
   {
-   "id": "3468358703",
-   "streamer": "darkviperau",
-   "title": "LOL",
-   "views": 13,
-   "duration": 10.0,
-   "url": "https://www.twitch.tv/darkviperau/clip/ClearCarelessLaptopOptimizePrime-ITEDk2Xqt5Ui84v7",
-   "created": 1795017924,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "1569374739",
    "streamer": "darkviperau",
    "title": "gta 6 first launch!",
@@ -5327,6 +4840,18 @@
    "duration": 29.0,
    "url": "https://www.twitch.tv/darkviperau/clip/GiftedClumsyWasabiShadyLulu-qPoO_TJvvySXu9qs",
    "created": 1794999699,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "3468358703",
+   "streamer": "darkviperau",
+   "title": "LOL",
+   "views": 13,
+   "duration": 10.0,
+   "url": "https://www.twitch.tv/darkviperau/clip/ClearCarelessLaptopOptimizePrime-ITEDk2Xqt5Ui84v7",
+   "created": 1795017924,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -5344,13 +4869,13 @@
    "is_gta6": false
   },
   {
-   "id": "1870047054",
+   "id": "4140490266",
    "streamer": "typicalgamer",
-   "title": "decouverte du jeu",
+   "title": "police",
    "views": 12,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/typicalgamer/clip/ResoluteSuaveKittenMingLee-NUea82YQfGNMbB-Q",
-   "created": 1795000217,
+   "url": "https://www.twitch.tv/typicalgamer/clip/ColorfulSucculentSaladDendiFace-e_TRJNgGA3yb1OnT",
+   "created": 1795006332,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -5368,13 +4893,13 @@
    "is_gta6": false
   },
   {
-   "id": "2529891371",
+   "id": "874072318",
    "streamer": "typicalgamer",
-   "title": "gta6",
+   "title": "GTA VI MARATHON",
    "views": 12,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/typicalgamer/clip/ProductiveExpensiveBubbleteaTakeNRG-T013fhnCUCawjjzE",
-   "created": 1794993032,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/typicalgamer/clip/GoldenImportantSrirachaSSSsss-4Y66OZ5qDWmKhLrs",
+   "created": 1795004106,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -5392,25 +4917,37 @@
    "is_gta6": false
   },
   {
-   "id": "4140490266",
+   "id": "2529891371",
    "streamer": "typicalgamer",
-   "title": "police",
+   "title": "gta6",
    "views": 12,
-   "duration": 60.0,
-   "url": "https://www.twitch.tv/typicalgamer/clip/ColorfulSucculentSaladDendiFace-e_TRJNgGA3yb1OnT",
-   "created": 1795006332,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/typicalgamer/clip/ProductiveExpensiveBubbleteaTakeNRG-T013fhnCUCawjjzE",
+   "created": 1794993032,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
   },
   {
-   "id": "874072318",
+   "id": "1870047054",
    "streamer": "typicalgamer",
-   "title": "GTA VI MARATHON",
+   "title": "decouverte du jeu",
    "views": 12,
    "duration": 60.0,
-   "url": "https://www.twitch.tv/typicalgamer/clip/GoldenImportantSrirachaSSSsss-4Y66OZ5qDWmKhLrs",
-   "created": 1795004106,
+   "url": "https://www.twitch.tv/typicalgamer/clip/ResoluteSuaveKittenMingLee-NUea82YQfGNMbB-Q",
+   "created": 1795000217,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "257549731",
+   "streamer": "darkviperau",
+   "title": "[PS5 Pro] [HOURLY GIVEAWAYS] The BEST GTA VI LAUNCH Of All Time (New Zealand Start Time)",
+   "views": 12,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/darkviperau/clip/AlluringAgreeableClintmullinsTwitchRPG-WgkepiCGrBJnrflS",
+   "created": 1795030427,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -5428,18 +4965,6 @@
    "is_gta6": false
   },
   {
-   "id": "189351892",
-   "streamer": "darkviperau",
-   "title": "Sussy baka roblox",
-   "views": 12,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/darkviperau/clip/SavagePlacidJamShazBotstix--6XMX8ibnjhhNvBV",
-   "created": 1795004919,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "2747290627",
    "streamer": "typicalgamer",
    "title": "it's happeniing",
@@ -5447,18 +4972,6 @@
    "duration": 11.0,
    "url": "https://www.twitch.tv/typicalgamer/clip/ConcernedTameGarbageMoreCowbell-JbgR6_cSxmF_WIAh",
    "created": 1794999555,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "184281150",
-   "streamer": "typicalgamer",
-   "title": "pelican",
-   "views": 11,
-   "duration": 18.0,
-   "url": "https://www.twitch.tv/typicalgamer/clip/RefinedBashfulHamburgerTinyFace-DisO9x6m6njdEx0v",
-   "created": 1795018963,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -5476,13 +4989,13 @@
    "is_gta6": false
   },
   {
-   "id": "3702223449",
+   "id": "2656005240",
    "streamer": "typicalgamer",
-   "title": "clip",
+   "title": "corvette in gta6",
    "views": 11,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/typicalgamer/clip/GentleLaconicMuleHeyGuys-b-9YkWlJwBBdOClY",
-   "created": 1795004940,
+   "duration": 60.0,
+   "url": "https://www.twitch.tv/typicalgamer/clip/ScrumptiousHotCrabGOWSkull-KiAXEi_XzqTOHNJ_",
+   "created": 1795004999,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -5495,6 +5008,18 @@
    "duration": 30.0,
    "url": "https://www.twitch.tv/typicalgamer/clip/GentleLaconicMuleHeyGuys-b-9YkWlJwBBdOClY",
    "created": 1795004940,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "184281150",
+   "streamer": "typicalgamer",
+   "title": "pelican",
+   "views": 11,
+   "duration": 18.0,
+   "url": "https://www.twitch.tv/typicalgamer/clip/RefinedBashfulHamburgerTinyFace-DisO9x6m6njdEx0v",
+   "created": 1795018963,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -5512,49 +5037,25 @@
    "is_gta6": false
   },
   {
-   "id": "2506286053",
+   "id": "2963916336",
    "streamer": "typicalgamer",
-   "title": "going insane",
+   "title": "GTA 6 First Armed Robbery At Check Cashing",
    "views": 10,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/typicalgamer/clip/WittyLaconicCodPanicBasket-aFbT4C0q2netMaEY",
-   "created": 1794973214,
+   "url": "https://www.twitch.tv/typicalgamer/clip/OnerousBravePresidentBudBlast-52YxUiRRtSL5bQxu",
+   "created": 1795000537,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
   },
   {
-   "id": "1100938828",
-   "streamer": "darkviperau",
-   "title": "\"buck myself?\"",
-   "views": 10,
-   "duration": 29.0,
-   "url": "https://www.twitch.tv/darkviperau/clip/FlirtySpeedyBatteryEleGiggle-pLe2FKvrgo3A2TKI",
-   "created": 1795020510,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "542106266",
-   "streamer": "darkviperau",
-   "title": "Matto doesnt care about turtles",
-   "views": 10,
-   "duration": 15.0,
-   "url": "https://www.twitch.tv/darkviperau/clip/CrowdedKnottyLeg4Head-D9rbv3yHj_oWRBgB",
-   "created": 1795013163,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "2650958833",
-   "streamer": "darkviperau",
-   "title": "The BEST GTA VI LAUNCH Of All Time (New Zealand Start Time)",
+   "id": "3236839885",
+   "streamer": "typicalgamer",
+   "title": "test",
    "views": 10,
    "duration": 30.0,
-   "url": "https://www.twitch.tv/darkviperau/clip/CourageousCreativeFishBrainSlug--lpQnX8BZMNX76a0",
-   "created": 1795000692,
+   "url": "https://www.twitch.tv/typicalgamer/clip/ZanyPricklyStorkKeepo-8LTsgP-r5H5pUvMK",
+   "created": 1794977923,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -5572,6 +5073,18 @@
    "is_gta6": false
   },
   {
+   "id": "2650958833",
+   "streamer": "darkviperau",
+   "title": "The BEST GTA VI LAUNCH Of All Time (New Zealand Start Time)",
+   "views": 10,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/darkviperau/clip/CourageousCreativeFishBrainSlug--lpQnX8BZMNX76a0",
+   "created": 1795000692,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "4249763714",
    "streamer": "darkviperau",
    "title": "AYO!",
@@ -5579,6 +5092,30 @@
    "duration": 18.0,
    "url": "https://www.twitch.tv/darkviperau/clip/HelpfulTransparentSpindlePlanking-K8V-H9n8ZCTmHdiA",
    "created": 1795007753,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "542106266",
+   "streamer": "darkviperau",
+   "title": "Matto doesnt care about turtles",
+   "views": 10,
+   "duration": 15.0,
+   "url": "https://www.twitch.tv/darkviperau/clip/CrowdedKnottyLeg4Head-D9rbv3yHj_oWRBgB",
+   "created": 1795013163,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "1100938828",
+   "streamer": "darkviperau",
+   "title": "\"buck myself?\"",
+   "views": 10,
+   "duration": 29.0,
+   "url": "https://www.twitch.tv/darkviperau/clip/FlirtySpeedyBatteryEleGiggle-pLe2FKvrgo3A2TKI",
+   "created": 1795020510,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -5603,18 +5140,6 @@
    "duration": 30.0,
    "url": "https://www.twitch.tv/darkviperau/clip/PoisedCuriousWebBloodTrail-bqZGNxK9lFvwWVaK",
    "created": 1795027505,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "2290061280",
-   "streamer": "darkviperau",
-   "title": "SO REAL",
-   "views": 9,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/darkviperau/clip/TentativeCaringGarlicJebaited-lyxRVubVc8Bqp6AM",
-   "created": 1795012039,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -5656,13 +5181,13 @@
    "is_gta6": false
   },
   {
-   "id": "4089305064",
+   "id": "2290061280",
    "streamer": "darkviperau",
-   "title": "sad",
+   "title": "SO REAL",
    "views": 9,
-   "duration": 17.0,
-   "url": "https://www.twitch.tv/darkviperau/clip/LuckyReliableCaterpillarBCouch-ZofrFALCU5r2bCf4",
-   "created": 1795037136,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/darkviperau/clip/TentativeCaringGarlicJebaited-lyxRVubVc8Bqp6AM",
+   "created": 1795012039,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -5680,25 +5205,13 @@
    "is_gta6": false
   },
   {
-   "id": "1439535837",
+   "id": "4089305064",
    "streamer": "darkviperau",
-   "title": "sfx",
-   "views": 8,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/darkviperau/clip/TsundereAggressiveDugongPRChase-7TQFz_U2Em_ScU3g",
-   "created": 1795019036,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
-   "id": "266830016",
-   "streamer": "darkviperau",
-   "title": "FUNNIEST GTA 6",
-   "views": 8,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/darkviperau/clip/SweetCoyMallardDBstyle-86WQNfWyRbSCxuvU",
-   "created": 1795010309,
+   "title": "sad",
+   "views": 9,
+   "duration": 17.0,
+   "url": "https://www.twitch.tv/darkviperau/clip/LuckyReliableCaterpillarBCouch-ZofrFALCU5r2bCf4",
+   "created": 1795037136,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -5716,6 +5229,30 @@
    "is_gta6": false
   },
   {
+   "id": "266830016",
+   "streamer": "darkviperau",
+   "title": "FUNNIEST GTA 6",
+   "views": 8,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/darkviperau/clip/SweetCoyMallardDBstyle-86WQNfWyRbSCxuvU",
+   "created": 1795010309,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "1439535837",
+   "streamer": "darkviperau",
+   "title": "sfx",
+   "views": 8,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/darkviperau/clip/TsundereAggressiveDugongPRChase-7TQFz_U2Em_ScU3g",
+   "created": 1795019036,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
    "id": "2320624902",
    "streamer": "n3on",
    "title": "mc",
@@ -5728,13 +5265,25 @@
    "is_gta6": false
   },
   {
-   "id": "3068752128",
+   "id": "2123439576",
    "streamer": "darkviperau",
-   "title": "lovely night out",
+   "title": "dark viper AU",
    "views": 7,
-   "duration": 19.0,
-   "url": "https://www.twitch.tv/darkviperau/clip/HeadstrongCredulousDiamondDxAbomb-IjLDv6jr-2dhpkSL",
-   "created": 1795027579,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/darkviperau/clip/DeliciousPuzzledMouseYouWHY-_z8xdT1_diGrED2f",
+   "created": 1795003674,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "2123439576",
+   "streamer": "darkviperau",
+   "title": "dark viper AU",
+   "views": 7,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/darkviperau/clip/DeliciousPuzzledMouseYouWHY-_z8xdT1_diGrED2f",
+   "created": 1795003674,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
@@ -5752,18 +5301,6 @@
    "is_gta6": false
   },
   {
-   "id": "2036415575",
-   "streamer": "darkviperau",
-   "title": "SLO MO CRASH",
-   "views": 6,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/darkviperau/clip/DeadColdbloodedSpaghettiArgieB8-5xMI5PJIfjxQW3HO",
-   "created": 1795005627,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "2470017606",
    "streamer": "n3on",
    "title": ".",
@@ -5776,18 +5313,6 @@
    "is_gta6": false
   },
   {
-   "id": "313631456",
-   "streamer": "n3on",
-   "title": "mc",
-   "views": 5,
-   "duration": 30.0,
-   "url": "https://www.twitch.tv/n3on/clip/BoringDeterminedAlmondGivePLZ-64chuvUDKB0gj9i3",
-   "created": 1795013637,
-   "thumbnail": null,
-   "game": null,
-   "is_gta6": false
-  },
-  {
    "id": "3946639469",
    "streamer": "n3on",
    "title": "mc",
@@ -5795,6 +5320,18 @@
    "duration": 30.0,
    "url": "https://www.twitch.tv/n3on/clip/WealthyShyPhoneAsianGlow-22ndOoN-kY41v9-R",
    "created": 1795013371,
+   "thumbnail": null,
+   "game": null,
+   "is_gta6": false
+  },
+  {
+   "id": "313631456",
+   "streamer": "n3on",
+   "title": "mc",
+   "views": 5,
+   "duration": 30.0,
+   "url": "https://www.twitch.tv/n3on/clip/BoringDeterminedAlmondGivePLZ-64chuvUDKB0gj9i3",
+   "created": 1795013637,
    "thumbnail": null,
    "game": null,
    "is_gta6": false
