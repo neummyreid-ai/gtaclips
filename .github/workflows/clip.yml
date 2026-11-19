@@ -35,6 +35,12 @@ jobs:
           sudo apt-get install -y -qq ffmpeg
           pip install -U yt-dlp pillow
 
+      - name: YouTube cookies (optional)
+        env:
+          YT_COOKIES: ${{ secrets.YT_COOKIES }}
+        run: |
+          if [ -n "$YT_COOKIES" ]; then printf '%s\n' "$YT_COOKIES" > "$RUNNER_TEMP/yt_cookies.txt"; echo "YT_COOKIES_FILE=$RUNNER_TEMP/yt_cookies.txt" >> "$GITHUB_ENV"; echo "cookies loaded"; else echo "no YT_COOKIES secret"; fi
+
       - name: Render new jobs
         run: python scripts/render.py
 

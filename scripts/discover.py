@@ -70,6 +70,9 @@ def list_clips(channel):
 
 def ytdlp_json(args, timeout=240):
     try:
+        cookies = os.environ.get("YT_COOKIES_FILE")
+        if cookies and os.path.exists(cookies):
+            args = ["--cookies", cookies, *args]
         res = subprocess.run(["yt-dlp", *args], capture_output=True, text=True, timeout=timeout)
     except subprocess.TimeoutExpired:
         return None

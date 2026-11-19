@@ -247,6 +247,9 @@ def download(url, dest, start=None, dur=None):
     cmd = ["yt-dlp", "--no-playlist", "-f",
            "bv*[height<=1080][ext=mp4]+ba[ext=m4a]/b[height<=1080][ext=mp4]/bv*[height<=1080]+ba/b",
            "--merge-output-format", "mp4", "-o", dest]
+    cookies = os.environ.get("YT_COOKIES_FILE")
+    if cookies and os.path.exists(cookies) and "youtube.com" in url:
+        cmd += ["--cookies", cookies]
     if start is not None:  # long YouTube video: fetch only the part we need
         end = start + (dur or 30) + 2
         cmd += ["--download-sections", f"*{start}-{end}", "--force-keyframes-at-cuts"]
