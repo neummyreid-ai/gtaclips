@@ -248,7 +248,12 @@ def main():
     for name, url in YOUTUBE_CHANNELS.items():
         yt.extend(list_youtube(name, url))
     clips.extend(yt)  # listed after the Twitch clips; views are whole-video views
+    now = datetime.now(timezone.utc).timestamp()
     for c in clips:
+        # how fast a clip is taking off: views per hour since it was made
+        age_h = max(0.25, (now - c["created"]) / 3600) if c.get("created") else None
+        c["age_hours"] = round(age_h, 2) if age_h else None
+        c["views_per_hour"] = round((c.get("views") or 0) / age_h) if age_h and c.get("source") != "youtube" else None
         g = (c.get("game") or "").lower()
         c["is_gta6"] = ("grand theft auto vi" in g) or ("gta 6" in g) or ("gta vi" in g)
     save_thumbs(clips)
@@ -257,6 +262,9 @@ def main():
         json.dump({
             "updated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
             "count": len(clips),
+            "trending": [c["id"] for c in sorted(
+                [c for c in clips if c.get("views_per_hour") and (c.get("age_hours") or 99) <= 6],
+                key=lambda c: c["views_per_hour"], reverse=True)[:25]],
             "errors": ERRORS,
             "clips": clips,
         }, f, indent=1)
