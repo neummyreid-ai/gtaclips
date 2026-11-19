@@ -36,9 +36,9 @@ PURPLE = (74, 20, 140)
 TEAL = (51, 240, 224)
 DARK = (20, 6, 31)
 HEADER = "VICE CITY CLIPPED"
-SIDE = 24            # margin around the gameplay frame
-VIDEO_CENTER_Y = 1080
-CAPTION_TOP = 215
+SIDE = 16            # margin around the gameplay frame
+VIDEO_CENTER_Y = 1010
+CAPTION_TOP = 190
 MAX_TEXT_W = 980
 
 
@@ -217,8 +217,8 @@ def make_overlay(path, job, box):
 
     # header
     d = ImageDraw.Draw(img)
-    hf = ImageFont.truetype(FONT, 62)
-    spaced_text(d, W / 2, 100, HEADER, hf, TEAL, 7, stroke=4, stroke_fill=DARK)
+    hf = ImageFont.truetype(FONT, 50)
+    spaced_text(d, W / 2, 92, HEADER, hf, TEAL, 6, stroke=4, stroke_fill=DARK)
 
     # paid campaign clips: on-screen ad disclosure at the start of the video
     if job.get("ad"):
@@ -236,8 +236,14 @@ def make_overlay(path, job, box):
     if credit:
         cf = ImageFont.truetype(FONT, 46)
         cw = cf.getlength(credit)
-        d.text(((W - cw) / 2, y + vh + pad + 44), credit, font=cf, fill=(255, 255, 255, 235),
+        d.text(((W - cw) / 2, y + vh + pad + 56), credit, font=cf, fill=(255, 255, 255, 235),
                stroke_width=4, stroke_fill=DARK)
+
+    # progress-bar track (the moving fill is drawn by ffmpeg) + follow line
+    bar_y = y + vh + pad + 22
+    d.rounded_rectangle((SIDE, bar_y, W - SIDE, bar_y + 12), radius=6, fill=(255, 255, 255, 60))
+    ff = ImageFont.truetype(FONT, 40)
+    spaced_text(d, W / 2, H - 230, "FOLLOW FOR DAILY GTA 6 CLIPS", ff, TEAL, 3, stroke=4, stroke_fill=DARK)
     img.save(path)
 
 
@@ -266,13 +272,19 @@ def render(job, src, out_path):
         make_tint(tint)
         make_overlay(ov, job, box)
         dur = job.get("dur")
+        bw = W - 2 * SIDE
+        total = min(float(dur), sdur) if dur and sdur else (sdur or float(dur or 30))
         fc = (
             "[0:v]split=2[a][b];"
             f"[a]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},boxblur=28:4[bg];"
             "[bg][1:v]overlay=0:0[bgt];"
             f"[b]scale={vw}:{vh}:flags=lanczos,setsar=1[fg];"
             f"[bgt][fg]overlay={x}:{y}[v1];"
-            "[v1][2:v]overlay=0:0,fps=30,format=yuv420p[v]"
+            "[v1][2:v]overlay=0:0[v2];"
+            # progress bar: a pink strip that slides in from the left over the clip's length
+            f"color=c=0xFF2E88:s={bw}x12:r=30[bar];"
+            f"[v2][bar]overlay=x='{SIDE}-{bw}+{bw}*t/{total:.3f}':y={y + vh + 8 + 22}:shortest=1,"
+            "fps=30,format=yuv420p[v]"
         )
         cmd = ["ffmpeg", "-y", "-hide_banner", "-loglevel", "error"]
         if dur:
