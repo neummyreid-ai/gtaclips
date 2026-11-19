@@ -30,7 +30,12 @@ jobs:
           python-version: "3.12"
 
       - name: Install yt-dlp
-        run: pip install -U yt-dlp
+        run: pip install -U "yt-dlp[default]"
+
+      # YouTube needs a JavaScript runtime for yt-dlp to read its formats
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
 
       - name: YouTube cookies (optional)
         env:
