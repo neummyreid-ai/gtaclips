@@ -100,7 +100,9 @@ def video_box(src_w, src_h):
 # ---------- text ----------
 
 def wrap(text, font, max_w):
-    words = text.split()
+    # keep "GTA 6" / "GTA VI" together on one line
+    text = re.sub(r"\bGTA (6|VI)\b", "GTA\u00a0\\1", text)
+    words = text.split(" ")
     lines, cur = [], ""
     for w in words:
         test = (cur + " " + w).strip()
