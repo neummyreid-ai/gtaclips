@@ -2,7 +2,7 @@
 
 Automatic clip pipeline for **Vice City Clipped**, a GTA 6 clip page. Fan page, not affiliated with Rockstar Games.
 
-- `discover.yml` runs every 10 minutes (and on pushes) and lists each streamer's top Twitch clips from the last 24 hours in `discover/latest.json`, sorted by views, plus thumbnails of the top clips in `discover/thumbs/`.
+- `discover.yml` runs every 10 minutes (and on pushes) and lists each streamer's top Twitch clips, plus the most-replayed moments of YouTube-only streamers (Tomo, using the optional `YT_COOKIES` secret), from the last 24 hours in `discover/latest.json`, sorted by views, plus thumbnails of the top clips in `discover/thumbs/`.
 - `clip.yml` runs when a `jobs/*.json` file is pushed. It downloads the clip and renders a 1080x1920 Vice City-style vertical video into `out/<id>.mp4`.
 - Finished videos are posted through Metricool from `https://raw.githubusercontent.com/<user>/gtaclips/main/out/<id>.mp4`.
 
