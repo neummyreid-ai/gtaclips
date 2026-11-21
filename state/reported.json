@@ -1,6 +1,6 @@
 {
   "note": "Written by the scheduled Vice City Clipped run. Tracks #ad post URLs and alerts already sent to Reid so later runs don't repeat them.",
-  "updated": "2026-11-21T04:58Z",
+  "updated": "2026-11-21T07:00Z",
   "ad_posts_reported": [
     "https://www.instagram.com/reel/Df59n0gjreg/",
     "https://www.instagram.com/reel/Df6IwNlEief/",
@@ -21,6 +21,7 @@
     "2026-11-19: Metricool 'You have reached your Metricool account limit' on all networks for posts from 2026-11-19 01:05 ET onward",
     "2026-11-20: account limit still blocking \u2014 all 4 posts 2026-11-20 00:35-01:50 ET failed on IG+TikTok; run skipped queuing new clips",
     "2026-11-20 17:58 ET: limit still blocking (no successful post since 2026-11-19 00:50 ET); run skipped queuing, no repeat alert",
-    "2026-11-20 23:58 ET: limit still blocking, nothing pending, no new #ad URLs; run skipped queuing, no repeat alert"
+    "2026-11-20 23:58 ET: limit still blocking, nothing pending, no new #ad URLs; run skipped queuing, no repeat alert",
+    "2026-11-21 01:58 ET: limit still blocking (last 3 posts 2026-11-20 01:00-01:50 ET errored), nothing pending, no new #ad URLs; run skipped queuing, no repeat alert"
   ]
 }
